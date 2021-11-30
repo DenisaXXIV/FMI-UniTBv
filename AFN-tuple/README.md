@@ -19,9 +19,13 @@ Se cere crearea unei clase AFD (alta decât clasa principală). În funcția pri
 ## 👨‍👩‍👧‍👦 Membrii clasei
 
 ~ Stari
+
 ~ Sigma
+
 ~ Delta
+
 ~ StareInit
+
 ~ Finale 
 
 ## ✨ Metode 
