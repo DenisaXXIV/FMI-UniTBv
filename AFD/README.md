@@ -2,7 +2,7 @@
 
 ## 🖥️ GUI
 
-Interfata grafica realizata exclusiv consola.
+Interfata grafica realizata exclusiv in consola.
 
 ## 📜 Tuple
 
