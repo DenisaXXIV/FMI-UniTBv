@@ -1,0 +1,11 @@
+﻿  AFD.cpp
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(32,28): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(58,28): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(65,38): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(76,30): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(96,22): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\AFD\AFD.cpp(114,29): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  AFD.vcxproj -> D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\03\AFD\Debug\AFD.exe
