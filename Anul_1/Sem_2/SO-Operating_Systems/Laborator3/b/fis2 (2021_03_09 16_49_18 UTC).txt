@@ -1,0 +1,8 @@
+mov
+roz
+alb
+albastru
+rosu
+verde
+portocaliu
+negru

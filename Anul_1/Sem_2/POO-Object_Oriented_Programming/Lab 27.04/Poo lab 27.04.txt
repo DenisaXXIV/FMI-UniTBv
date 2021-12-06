@@ -1,0 +1,29 @@
+1. Scrieti o clasa Persoana cu atribute: nume , varsta
+metode:
+~constructori
+~afisare
+~destructori
+
+2.Clasa Student, derivata din Persoana , atribute: profil, valBursa
+metode:
+~constructori
+~afisare
+~getVenit - bursa
+~destructor
+
+3.Clasa Angajat, deriv din Persoana, atribute: salariu, firma
+metode:
+~constructori
+~afisare
+~getVenit
+~destr
+
+4. Sa se deriveze clasa StudentiAngajati din Student si Angajat.
+metode: 
+~constr
+~afisare
+~getVenit()  - bursa+salariul
+
+a. Sa se creze un vector in care sa se pastreze Student si Angajat
+b. sa se parcurga vectorul si sa se afiseze atributele persoanelor din el
+c. Sa se separe in alti doi vectori, unul de studenti si unul de angajati

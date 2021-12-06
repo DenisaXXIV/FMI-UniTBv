@@ -1,0 +1,13 @@
+~constructor de copiere
+~destructori
+~supraincarcare operatorului = (atribuire)
+	constructor de copiere+ op de atribuire -> face copierea bit cu bit daca sunt 
+generate implicit
+	avem nevoie de ele pentru clasa in care avem alocare dinamica
+
+-constructor de copiere:
+	*face initializarea unui obiect pasat ca si parametru
+	*Matrice matriceNoua(matriceVeche);
+	*se apeleaza cand nu avem obiecte transmise prin valoarea ca parametri ai
+	functiilor
+	*in constructorul de copiere se transmit parametrii prin referinta

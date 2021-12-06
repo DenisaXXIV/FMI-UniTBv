@@ -1,0 +1,35 @@
+METODE VIRTUALE PURE
+
+sunt met virtuale care nu au implementare( definire) in clasa in care sunt declarate.
+
+virtual	tip returnat	nume_met(lista de param ) = 0;
+
+O clasa ce contine o met virtuala pura( cel putin) s.n. CLASA ABSTRACTA.
+
+Clasele abstracte nu pot fi instantiate (nu pot avea obiecte de tipul clasei).
+
+Se pot declara in schimb pointeri la clasa respectiva.
+
+Ex1:
+
+1)Clasa Animal:
+-string specie
+-met getSunetSpecific()=0
+( + ce credeti ca aveti nevoie)
+
+2) Clasa Pet:
+- string getName() =0
+- string setName()=0
+- void Play()=0
+
+3) Clasa Pisica:   (<- Pet,Animal)
+- string Rasa, Nume 
+-implementeaza getSunetSpecific(), getName(), setName(),Play())
+
+4) Clasa Urs:   (<- Animal)
+-getSunetSpecific()
+
+5)in main():
+-declaram obiecte/pointeri la Pisica, Urs;
+- Scrieti o metoda care primeste  ca parametru un animal si verifica daca el este de tip Pet.
+Daca da, atunci cheama metoda Play(), altfel afiseaza un mesaj.

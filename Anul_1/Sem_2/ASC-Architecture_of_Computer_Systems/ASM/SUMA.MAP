@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 000FFH 00100H SEGM_STIVA         
+ 00100H 00110H 00011H SEGM_DATE          
+ 00120H 0013DH 0001EH SEGM_COD           
+
+Program entry point at 0012:0000
+Warning: No stack
+
