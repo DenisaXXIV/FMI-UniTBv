@@ -8,10 +8,10 @@ Copyright - DenisaXXIV
 ## I. *Year I*:
 
 ### 1) Semester I
-  - [ (AF) Fundamental Algorithms](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_1/AF-Fundamental_Algorithms) - **C++**
+  - [ (AF) Fundamental Algorithms](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_I/AF-Fundamental_Algorithms) - **C++**
   - (AM) Mathematical Analysis  - **Math**
-  - [ (FAI) Algebraic Fundamentals of Computer Science](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_1/FAI-Algebraic_Fundamentals_of_Computer_Science) - **Math**
-  - [ (FP) The Fundamentals of Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_1/FP-The_Fundamentals_of_Programming) - **C**
+  - [ (FAI) Algebraic Fundamentals of Computer Science](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_I/FAI-Algebraic_Fundamentals_of_Computer_Science) - **Math**
+  - [ (FP) The Fundamentals of Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_I/FP-The_Fundamentals_of_Programming) - **C**
   - German - **Foreign Language**
   -  (LMC) Mathematical and Computational Logic - **Math**
 
@@ -21,10 +21,10 @@ Copyright - DenisaXXIV
 
 ### 2) Semester II
  - (ALGAD) Linear Algebra, Analytical and Differential Geometry - **Math**
- - [ (ASC) Architecture of Computer Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_2/ASC-Architecture_of_Computer_Systems) - **Assembly**
+ - [ (ASC) Architecture of Computer Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/ASC-Architecture_of_Computer_Systems) - **Assembly**
 - German - **Foreign Language**
-- [ (POO) Object-Oriented Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_2/POO-Object_Oriented_Programming) - **C++**
-- [ (SO) Operating Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Anul_1/Sem_2/SO-Operating_Systems/Laborator3) - **Batchfile**
+- [ (POO) Object-Oriented Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/POO-Object_Oriented_Programming) - **C++**
+- [ (SO) Operating Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/SO-Operating_Systems) - **Batchfile**
 - [ (SD) Data Structures](https://github.com/DenisaXXIV/data-structures) - **C++**
 
 ####Optional Subjects: 
@@ -34,7 +34,7 @@ Copyright - DenisaXXIV
 
 ### 1) Semester I
  - [ (AG) Graph Algorithms](#) - **C++/ Java**
-- [ (LFC) Formal languages and compilers ](#) - **C++/ Java/ C#**
+- [ (LFC) Formal languages and compilers ](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/LFC-Formal%20languages%20and%20compilers) - **C++/ Java/ C#**
 - [ (MIP) Programming Environments and Tools ](#) - **Java**
 - [ (BD) Database](#) - **SQL**
 
