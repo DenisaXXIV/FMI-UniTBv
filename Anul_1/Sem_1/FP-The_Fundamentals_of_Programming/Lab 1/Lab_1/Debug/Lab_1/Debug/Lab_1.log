@@ -1,0 +1,2 @@
+﻿Aplicatia.obj : error LNK2019: unresolved external symbol _scan_f referenced in function _main
+F:\Facultate_Info\FP\Lab_1\Lab_1\Debug\Lab_1\Debug\Lab_1.exe : fatal error LNK1120: 1 unresolved externals

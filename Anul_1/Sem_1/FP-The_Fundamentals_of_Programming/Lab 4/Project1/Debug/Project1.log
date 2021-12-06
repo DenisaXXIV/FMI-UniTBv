@@ -1,0 +1,7 @@
+﻿  Lab_4.c
+F:\Facultate_Info\FP\Lab_4\Project1\Lab_4.c(19,7): warning C4013: 'exit' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_4\Project1\Lab_4.c(32,6): warning C4013: 'gets' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_4\Project1\Lab_4.c(51,14): warning C4013: 'strstr' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_4\Project1\Lab_4.c(51,21): warning C4013: 'strlwr' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_4\Project1\Lab_4.c(51,38): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  Project1.vcxproj -> F:\Facultate_Info\FP\Lab_4\Project1\Debug\Project1.exe

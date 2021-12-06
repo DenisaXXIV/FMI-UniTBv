@@ -1,0 +1,9 @@
+﻿  Lab_7.c
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(20,7): warning C4013: 'exit' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(37,44): warning C4047: '=': 'float *' differs in levels of indirection from 'float **'
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(49,17): warning C4133: 'function': incompatible types - from 'char [5]' to 'FILE *const '
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(49,27): warning C4133: 'function': incompatible types - from 'float *' to 'const char *const '
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(14,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(24,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Facultate_Info\FP\Lab_7\Lab_7\Lab_7\Lab_7.c(49,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

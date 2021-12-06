@@ -1,0 +1,10 @@
+﻿  Ex_1.c
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(24,1): warning C4133: 'initializing': incompatible types - from 'int *' to 'tstiva *'
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(40,7): warning C4013: 'exit' undefined; assuming extern returning int
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(44,14): warning C4133: '=': incompatible types - from 'int *' to 'tstiva *'
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(45,9): warning C4133: '=': incompatible types - from 'tstiva *' to 'int *'
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(54,9): warning C4133: '=': incompatible types - from 'int *' to 'tstiva *'
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(55,14): warning C4133: '=': incompatible types - from 'tstiva *' to 'int *'
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(73,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(79,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Facultate_Info\FP\Lab_8\Ex_1\Ex_1\Ex_1.c(107,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

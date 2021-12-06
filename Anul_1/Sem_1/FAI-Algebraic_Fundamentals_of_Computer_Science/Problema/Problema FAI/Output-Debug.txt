@@ -1,0 +1,17 @@
+﻿'Problema FAI.exe' (Win32): Loaded 'D:\Educatie\5. Facultate\Anul I\Sem. I\FAI - Fundamentele algebrice ale informaticii\Problema 1 pct examen\Problema FAI\Debug\Problema FAI.exe'. Symbols loaded.
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\x86\aswhook.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x28b0 has exited with code 0 (0x0).
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Problema FAI.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The program '[16796] Problema FAI.exe' has exited with code 0 (0x0).

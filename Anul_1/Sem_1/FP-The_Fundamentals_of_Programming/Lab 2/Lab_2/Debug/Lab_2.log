@@ -1,0 +1,3 @@
+﻿  Lab_2.c
+F:\Facultate_Info\FP\Lab_2\Lab_2\Lab_2.c(24,7): warning C4013: 'exit' undefined; assuming extern returning int
+  Lab_2.vcxproj -> F:\Facultate_Info\FP\Lab_2\Lab_2\Debug\Lab_2.exe

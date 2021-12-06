@@ -1,0 +1,17 @@
+﻿'Ex 8.exe' (Win32): Loaded 'D:\Educatie\5. Facultate\Anul I\Sem. I\AF - Algoritmi fundamentali\Teme laborator\Tema laborator 2\Ex 8\Debug\Ex 8.exe'. Symbols loaded.
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\x86\aswhook.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x39d8 has exited with code 0 (0x0).
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Ex 8.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The program '[6764] Ex 8.exe' has exited with code 0 (0x0).
