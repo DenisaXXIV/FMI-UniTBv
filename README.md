@@ -27,7 +27,7 @@ Copyright - DenisaXXIV
 - [ (SO) Operating Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/SO-Operating_Systems) - **Batchfile**
 - [ (SD) Data Structures](https://github.com/DenisaXXIV/data-structures) - **C++**
 
-####Optional Subjects: 
+#### Optional Subjects: 
  - Pedagogy
 
 ## II. *Year II*:
