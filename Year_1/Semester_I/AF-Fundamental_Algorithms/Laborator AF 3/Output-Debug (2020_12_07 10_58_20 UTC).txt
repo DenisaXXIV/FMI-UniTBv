@@ -1,0 +1,12 @@
+﻿'Laborator AF 3.exe' (Win32): Loaded 'D:\Educatie\5. Facultate\Anul I\Sem. I\AF - Algoritmi fundamentali\Laboratoare\Laborator AF 3\Debug\Laborator AF 3.exe'. Symbols loaded.
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\x86\aswhook.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Laborator AF 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2ca0 has exited with code 0 (0x0).
+The thread 0x455c has exited with code -1073741510 (0xc000013a).
+The program '[2552] Laborator AF 3.exe' has exited with code -1073741510 (0xc000013a).
