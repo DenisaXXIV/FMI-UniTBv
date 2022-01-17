@@ -39,7 +39,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 |I         |[Statistical Inference and Machine Learning ](#)|ISML |Python| 2 | 1 | 1 | - |  69  | C | 6 |
 | I        |[Formal languages and compilers](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/LFC-Formal%20languages%20and%20compilers)|LFC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
 | I        |[Programming Environments and Tools ](#)|MIP |Java| 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Advanced C ++ Programming  ](#)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Advanced C ++ Programming  ](https://github.com/DenisaXXIV/Twitter)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
 | I        |Deep Learning|DL |Python| 2 | - | - | - |  -  | - | - |
 | I        |Pedagogy |PSE |-| 1 | 1 | - | - |  -  | - | 5 |
 | I        |Physical Education |- |hike | - | 2 | - | - |  -  | A/R | 2 |
