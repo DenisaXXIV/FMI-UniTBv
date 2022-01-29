@@ -1,0 +1,15 @@
+﻿  AFN.cpp
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(44,28): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(107,28): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(123,38): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(134,30): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(153,23): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(171,32): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(212,29): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(316,30): warning C4018: '<': signed/unsigned mismatch
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(376,31): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\AFN\AFN.cpp(298): warning C4715: 'AFN::Accepta': not all control paths return a value
+  AFN.vcxproj -> D:\Educatie\5. Facultate\Anul II\Semestrul I\LFC - Limbaje formale si compilatoare\LAB\AFN\Debug\AFN.exe
