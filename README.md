@@ -15,7 +15,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | I        |[The Fundamentals of Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_I/FP-The_Fundamentals_of_Programming)|FP |C| 2 | - | 2 | - |  69  | E | 5 |
 | I        |Mathematical and Computational Logic|LMC |Math| 2 | 1 | - | - |  83  | E | 5 |
 | I        |Academic Writing|SA |-| 1 | 1 | - | - |  22  | C | 2 |
-| I        |German|- |-| 1 | 1 | - | - |  22  | C | 2 |
+| I        |German|- |A1| 1 | 1 | - | - |  22  | C | 2 |
 | I        |Pedagogy |PE |-| 1 | 1 | - | - |  -  | - | 5 |
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
@@ -25,9 +25,9 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 |II         |[Object-Oriented Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/POO-Object_Oriented_Programming)|POO |C++| 2 | - | 2 | - |  94  | E | 6 |
 | II        |[Data Structures](https://github.com/DenisaXXIV/data-structures)|SD |C++| 2 | - | 2 | - |  94  | E | 6 |
 | II        |[Operating Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/SO-Operating_Systems)|SO |Batchfile| 2 | - | 2 | - |  94  | E | 6 |
-| II        |German|- |-| 1 | 1 | - | - |  22  | C | 2 |
+| II        |German|- |A1| 1 | 1 | - | - |  22  | C | 2 |
 | II        |Pedagogy |FP+TMC|-| 1 | 1 | - | - |  -  | - | 5 |
-| II        |Physical Education |- |hike | - | 2 | - | - |  -  | A/R | 2 |
+| II        |Physical Education |EdFiz |hike | - | 2 | - | - |  -  | A/R | 2 |
 
 
 ## II. *Year II*:
@@ -42,7 +42,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | I        |[Advanced C ++ Programming  ](https://github.com/DenisaXXIV/Twitter)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
 | I        |Deep Learning|DL |Python| 2 | - | - | - |  -  | - | - |
 | I        |Pedagogy |PSE |-| 1 | 1 | - | - |  -  | - | 5 |
-| I        |Physical Education |- |hike | - | 2 | - | - |  -  | A/R | 2 |
+| I        |Physical Education |EdFiz |hike | - | 2 | - | - |  -  | A/R | 2 |
 
 
 ## III. *Year III*:
