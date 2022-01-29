@@ -41,7 +41,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | I        |[Programming Environments and Tools ](#)|MIP |Java| 2 | - | 2 | - |  69  | E | 5 |
 | I        |[Advanced C ++ Programming  ](https://github.com/DenisaXXIV/Twitter)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
 | I        |Deep Learning|DL |Python| 2 | - | - | - |  -  | - | - |
-| I        |Pedagogy |PSE |-| 1 | 1 | - | - |  -  | - | 5 |
+| I        |Pedagogy |TMI+TME |-| 1 | 1 | - | - |  -  | - | 5 |
 | I        |Physical Education |EdFiz |hike | - | 2 | - | - |  -  | A/R | 2 |
 
 
