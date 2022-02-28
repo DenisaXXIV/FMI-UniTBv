@@ -40,14 +40,37 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | I        |[Formal languages and compilers](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/LFC-Formal%20languages%20and%20compilers)|LFC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
 | I        |[Programming Environments and Tools ](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/README.md)|MIP |Java| 2 | - | 2 | - |  69  | E | 5 |
 | I        |[Advanced C ++ Programming  ](https://github.com/DenisaXXIV/Twitter)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
-| I        |Deep Learning|DL |Python| 2 | - | - | - |  -  | - | - |
+| I        |Deep Learning ( XPERI )|DL |Python| 2 | - | - | - |  -  | - | - |
 | I        |Pedagogy |TMI+TME |-| 1 | 1 | - | - |  -  | - | 5 |
 | I        |Physical Education |EdFiz |hike | - | 2 | - | - |  -  | A/R | 2 |
 
+| Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
+|----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
+| II        |[Automata, Calculability and Complexity](#)|ACC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
+| II        |[Visual Programming Environments](#)|MVP |C#| 2 | - | 2 | - |  69  | E | 5 |
+|II         |[Computer Networks](#)|RC |C++| 2 | - | 2 | - |  69  | E | 5 |
+| II        |[Modern 3D Graphic Modeling Systems in C ++](#)|SMM |C++| 2 | - | 2 | - |  69  | C | 5 |
+| II        |[Client Application Development](#)|DAC |Angular/Android/C#| 2 | - | 2 | - |  69  | C | 5 |
+| II        |[Digital Image Processing](#)|PID |C++| 2 | - | 2 | - |  69  | C | 5 |
+| II        |Handling Large Projects (SIEMENS) |HLP |C++| 2 | - | - | - |  -  | - | - |
+| II        |Specialty Didactics (Pedagogy) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
+<!---
 ## III. *Year III*:
 
+## IV. *Courses*:
 
+### 1) *Udemy*:
+
+### 2) *Coursera*:
+
+### 3) *Microsoft*:
+
+### 4) *Others*:
+--->
+</br>
+</br>
+</br>
 I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
 
 
