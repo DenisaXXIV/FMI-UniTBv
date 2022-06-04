@@ -1,0 +1,6 @@
+﻿            <MenuItem Header="Filters" 
+                      Background="#A3F7B5">
+                <MenuItem Header = "Filtrul directional Sobel"
+                          Command= "{Binding Path=Sobel}"/>
+            </MenuItem>
+            

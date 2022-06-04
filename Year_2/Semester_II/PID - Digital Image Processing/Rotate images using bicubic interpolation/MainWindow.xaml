@@ -1,0 +1,5 @@
+﻿            <MenuItem Header="Image rotation" 
+                      Background="#A3F7B5">
+                <MenuItem Header = "Bicubic interpolation"
+                          Command= "{Binding Path=Rotatie}"/>
+            </MenuItem>

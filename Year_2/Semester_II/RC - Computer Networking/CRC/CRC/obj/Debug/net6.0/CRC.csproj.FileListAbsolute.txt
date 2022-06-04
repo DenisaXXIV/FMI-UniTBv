@@ -1,0 +1,15 @@
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\bin\Debug\net6.0\CRC.exe
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\bin\Debug\net6.0\CRC.deps.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\bin\Debug\net6.0\CRC.runtimeconfig.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\bin\Debug\net6.0\CRC.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\bin\Debug\net6.0\CRC.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.csproj.AssemblyReference.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.AssemblyInfoInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.AssemblyInfo.cs
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.csproj.CoreCompileInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\refint\CRC.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\CRC.genruntimeconfig.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\CRC\CRC\obj\Debug\net6.0\ref\CRC.dll

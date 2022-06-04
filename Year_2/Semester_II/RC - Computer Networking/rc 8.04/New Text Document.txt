@@ -1,0 +1,6 @@
+mvp: 	a doua tema data viitoare si prima tema dupa vacanta
+rc: 	data viitoare una din primele teme
+	dupa vacanta inca una din primele 2 teme si tema 3
+
+__________________________________________________________________________________________
+

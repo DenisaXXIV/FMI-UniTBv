@@ -1,0 +1,15 @@
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.csproj.AssemblyReference.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.AssemblyInfoInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.AssemblyInfo.cs
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.csproj.CoreCompileInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\bin\Debug\net6.0\FereastraGlisanta.exe
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\bin\Debug\net6.0\FereastraGlisanta.deps.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\bin\Debug\net6.0\FereastraGlisanta.runtimeconfig.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\bin\Debug\net6.0\FereastraGlisanta.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\bin\Debug\net6.0\FereastraGlisanta.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\refint\FereastraGlisanta.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\FereastraGlisanta.genruntimeconfig.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema3\FereastraGlisanta\FereastraGlisanta\obj\Debug\net6.0\ref\FereastraGlisanta.dll

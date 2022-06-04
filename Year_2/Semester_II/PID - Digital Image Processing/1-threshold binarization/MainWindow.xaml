@@ -1,0 +1,5 @@
+﻿<MenuItem Header="Tools"  Background="#A3F7B5">
+       <MenuItem Header = "Binarize Image" Command= "{Binding Path=Binarize}"/>
+</MenuItem>
+
+

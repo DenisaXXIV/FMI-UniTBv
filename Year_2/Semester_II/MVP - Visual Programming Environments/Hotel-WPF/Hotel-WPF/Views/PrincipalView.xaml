@@ -1,0 +1,83 @@
+﻿<Window x:Class="Hotel_WPF.Views.PrincipalView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:Hotel_WPF.ViewModels"
+        mc:Ignorable="d"
+        Title="Hotel WPF"
+        Height="450" 
+        Width="800"
+        WindowState="Maximized"
+        ResizeMode="NoResize" 
+        WindowStyle="SingleBorderWindow"
+        Background="#68B0AB">
+
+    <!--<Window.DataContext>
+        <vm:RoomPresenterViewModel/>
+    </Window.DataContext>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32" />
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="64"/>
+            <ColumnDefinition Width="64"/>
+        </Grid.ColumnDefinitions>
+        <Menu Background="#C8D5B9"
+              Grid.Row="0" 
+              Grid.ColumnSpan="3">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <DockPanel HorizontalAlignment="Stretch"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+
+            <MenuItem Header="User" 
+                      Background="#C8D5B9"
+                      Foreground="#4A7C59"
+                      FontSize="22">
+                <MenuItem Header="New Game" 
+                          Foreground="Black"/>
+            </MenuItem>
+
+            <MenuItem Header="Menu" 
+                      Background="#C8D5B9"
+                      Foreground="#4A7C59"
+                      FontSize="22">
+            </MenuItem>
+
+            <MenuItem Header="Help" 
+                      Background="#C8D5B9"
+                      Foreground="#4A7C59"
+                      FontSize="22"
+                       Width="57" 
+                      HorizontalAlignment="Left">
+
+            </MenuItem>
+            <MenuItem Header="Hotel" 
+                      Background="#C8D5B9"
+                      Foreground="#4A7C59"
+                      FontSize="22"
+                       Width="75" HorizontalAlignment="Center" 
+                      Cursor="Arrow" IsEnabled="False" 
+                      FontFamily="Arial Black" Margin="0,0,190,0">
+            </MenuItem>
+        </Menu>
+        <Grid Background="#4A7C59"
+              Grid.Row="1" 
+              Grid.ColumnSpan="3">
+            <Label x:Name="Check_In" Content="Check-In" HorizontalAlignment="Left" Margin="19,0,0,0" VerticalAlignment="Center" Foreground="#FFFAF3DD"/>
+            <DatePicker HorizontalAlignment="Left" Margin="78,0,0,0" VerticalAlignment="Center" FirstDayOfWeek="Monday"/>
+            <Label Content="-" HorizontalAlignment="Left" Margin="183,0,0,0" VerticalAlignment="Center" Foreground="#FFFAF3DD"/>
+            <Label Content="Check-Out" HorizontalAlignment="Left" Margin="196,0,0,0" VerticalAlignment="Center" Foreground="#FFFAF3DD"/>
+            <DatePicker HorizontalAlignment="Left" Margin="268,0,0,0" VerticalAlignment="Center" FirstDayOfWeek="Monday"/>
+        </Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="284,36,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click"/>
+    </Grid>
+</Window>

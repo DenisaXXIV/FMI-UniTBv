@@ -1,0 +1,15 @@
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\bin\Debug\net6.0\Token.exe
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\bin\Debug\net6.0\Token.deps.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\bin\Debug\net6.0\Token.runtimeconfig.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\bin\Debug\net6.0\Token.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\bin\Debug\net6.0\Token.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.csproj.AssemblyReference.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.AssemblyInfoInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.AssemblyInfo.cs
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.csproj.CoreCompileInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\refint\Token.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\Token.genruntimeconfig.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema2\Token\Token\obj\Debug\net6.0\ref\Token.dll

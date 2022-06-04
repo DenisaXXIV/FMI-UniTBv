@@ -1,0 +1,14 @@
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\bin\Debug\net6.0\Hotel-WPF.DAL.deps.json
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\bin\Debug\net6.0\Hotel-WPF.DAL.runtimeconfig.json
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\bin\Debug\net6.0\Hotel-WPF.DAL.dll
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\bin\Debug\net6.0\Hotel-WPF.DAL.pdb
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.csproj.AssemblyReference.cache
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.AssemblyInfoInputs.cache
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.AssemblyInfo.cs
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.csproj.CoreCompileInputs.cache
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.dll
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\refint\Hotel-WPF.DAL.dll
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.pdb
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\Hotel-WPF.DAL.genruntimeconfig.cache
+E:\Proiecte\Hotel\Hotel-WPF\Hotel-WPF.DAL\obj\Debug\net6.0\ref\Hotel-WPF.DAL.dll

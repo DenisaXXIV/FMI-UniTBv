@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Algoritm_Diffle_Hellamn_Client
+build_property.ProjectDir = E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema5\Algoritm Diffle-Hellamn Client\Algoritm Diffle-Hellamn Client\

@@ -1,0 +1,15 @@
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\bin\Debug\net6.0\ParitateBidimensionala.exe
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\bin\Debug\net6.0\ParitateBidimensionala.deps.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\bin\Debug\net6.0\ParitateBidimensionala.runtimeconfig.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\bin\Debug\net6.0\ParitateBidimensionala.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\bin\Debug\net6.0\ParitateBidimensionala.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.csproj.AssemblyReference.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.AssemblyInfoInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.AssemblyInfo.cs
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.csproj.CoreCompileInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\refint\ParitateBidimensionala.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ParitateBidimensionala.genruntimeconfig.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema1\ParitateBidimensionala\ParitateBidimensionala\obj\Debug\net6.0\ref\ParitateBidimensionala.dll

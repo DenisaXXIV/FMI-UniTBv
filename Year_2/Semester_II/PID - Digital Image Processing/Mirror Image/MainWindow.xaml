@@ -1,0 +1,3 @@
+﻿                <MenuItem Header = "Mirror Image"
+                          Command="{Binding Path=Mirror}"/>
+                

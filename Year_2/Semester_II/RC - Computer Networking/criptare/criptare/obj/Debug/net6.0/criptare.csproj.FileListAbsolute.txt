@@ -1,0 +1,15 @@
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\bin\Debug\net6.0\criptare.exe
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\bin\Debug\net6.0\criptare.deps.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\bin\Debug\net6.0\criptare.runtimeconfig.json
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\bin\Debug\net6.0\criptare.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\bin\Debug\net6.0\criptare.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.csproj.AssemblyReference.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.AssemblyInfoInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.AssemblyInfo.cs
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.csproj.CoreCompileInputs.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\refint\criptare.dll
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.pdb
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\criptare.genruntimeconfig.cache
+E:\Educatie\5. Facultate\Anul II\Semestrul II\RC - Retele de calculatoare\Tema 2\criptare\criptare\obj\Debug\net6.0\ref\criptare.dll
