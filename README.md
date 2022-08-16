@@ -50,33 +50,55 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | II        |[Visual Programming Environments](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/MVP%20-%20Visual%20Programming%20Environments)|MVP |C#| 2 | - | 2 | - |  69  | E | 5 |
 | II        |[Computer Networks](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/RC%20-%20Computer%20Networking)|RC |C#| 2 | - | 2 | - |  69  | E | 5 |
 | II        |[Modern 3D Graphic Modeling Systems in C ++](#)|SMM |C++| 2 | - | 2 | - |  69  | C | 5 |
-| II        |[Client Application Development](#)|DAC |Angular/C#| 2 | - | 2 | - |  69  | C | 5 |
+| II        |[Client Application Development](https://github.com/DenisaXXIV/Interns-Manager)|DAC |Angular/C#| 2 | - | 2 | - |  69  | C | 5 |
 | II        |[Digital Image Processing](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/PID%20-%20Digital%20Image%20Processing)|PID |C#| 2 | - | 2 | - |  69  | C | 5 |
 | II        |Handling Large Projects (SIEMENS) |HLP |C++| 2 | - | - | - |  -  | - | - |
 | II        |Specialty Didactics (Pedagogy) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
-<!---
+
 ## III. *Year III*:
+
+| Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
+|----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
+| I        |[Software Engineering](#)| IS || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Logical and Functional Programming](#)| PLF || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Development of web applications](#)| DAW || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
+| I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
+
+| Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
+|----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
+| II       |[IT Project Management](#)| MPI || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Parallel, Concurrent and Distributed Programming](#)| PPCD || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Probabilities and Statistics for Autonomous Systems](#)| PS | Math | 2 | 1 | 1 | - |  85  | E | 5 |
+| II       |[Practice for the Development of the Bachelor's Thesis](#)| ? || - | - | - | 6 |  65  | C | 5 |
+| II       |[Programming Mobile Applications](#)| PAM | Kotlin | 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Modeling and Simulation of Dynamic Systems in MATLAB and Simulink](#)| ? | MATLAB| 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 ## IV. *Courses*:
 
 ### 1) *Udemy*:
 
-Nr.Crt.|Course|Project|Souce|
--------|------|-------|-----|
-1|The Complete ASP.NET MVC 5 Course ||[here](https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/)|
+Nr.Crt.|Course|Souce|Year of completion|
+|------|------|-----|------------------|
+1|[Flutter & Dart - The Complete Guide [2022 Edition]](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide) |[here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)|in progress...|
 
-
+<!---
 
 ### 2) *Coursera*:
 
 ### 3) *Microsoft*:
 
 ### 4) *Others*:
+
+[here](https://denisa-vasile.info/)
 --->
 </br>
 </br>
 </br>
-I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
+I hope that this repository helped you, for more details about me, you can access my website:  <a href="https://denisa-vasile.info/"> here </a>
 
 
