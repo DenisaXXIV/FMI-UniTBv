@@ -1,0 +1,7 @@
+﻿  Exercitiul 7.cpp
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(36,10): error C3861: 'nod': identifier not found
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(184): message : see reference to class template instantiation 'Lista<T>' being compiled
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(41,7): error C3861: 'isEmpty': identifier not found
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(41,14): message : 'isEmpty': function declaration must be available as none of the arguments depend on a template parameter
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(58,7): error C3861: 'isEmpty': identifier not found
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(58,14): message : 'isEmpty': function declaration must be available as none of the arguments depend on a template parameter

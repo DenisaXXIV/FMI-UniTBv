@@ -1,0 +1,34 @@
+﻿  Exercitiul 7.cpp
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(214,20): error C2248: 'Nod<T>::info': cannot access private member declared in class 'Nod<T>'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(7): message : see declaration of 'Nod<T>::info'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(24): message : see declaration of 'Nod<T>'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(210): message : while compiling class template member function 'void Lista<int>::PRINT(void)'
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(252): message : see reference to function template instantiation 'void Lista<int>::PRINT(void)' being compiled
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(251): message : see reference to class template instantiation 'Lista<int>' being compiled
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(215,13): error C2248: 'Nod<T>::next': cannot access private member declared in class 'Nod<T>'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(8): message : see declaration of 'Nod<T>::next'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(24): message : see declaration of 'Nod<T>'
+          with
+          [
+              T=int
+          ]

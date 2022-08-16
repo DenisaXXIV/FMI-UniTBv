@@ -1,0 +1,8 @@
+﻿  Exercitiul 7.cpp
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(342,15): error C2228: left of '.cinInfo' must have class/struct/union
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(342,15): message : type is 'Nod<T> *'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(342,15): message : did you intend to use '->' instead?

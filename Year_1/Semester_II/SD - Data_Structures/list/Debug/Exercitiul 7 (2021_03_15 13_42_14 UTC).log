@@ -1,0 +1,12 @@
+﻿  Exercitiul 7.cpp
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(287,12): warning C4101: 'nod': unreferenced local variable
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(274,1): error C2228: left of '.swapInfo' must have class/struct/union
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(274,1): message : type is 'Nod<T> *'
+          with
+          [
+              T=int
+          ]
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(274,1): message : did you intend to use '->' instead?
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(257): message : while compiling class template member function 'void Lista<int>::SORT(void)'
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(374): message : see reference to function template instantiation 'void Lista<int>::SORT(void)' being compiled
+D:\Educatie\5. Facultate\Anul I\Sem. II\Structuri de date\Teme\Tema 2\Exercitiul 7\Exercitiul 7.cpp(285): message : see reference to class template instantiation 'Lista<int>' being compiled
