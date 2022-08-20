@@ -23,7 +23,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | II        |Linear Algebra, Analytical and Differential Geometry|ALGAD |Math| 2 | 2 | - | - |  69  | C | 5 |
 | II        |[Architecture of Computer Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/ASC-Architecture_of_Computer_Systems)|ASC |Assembly| 2 | 1 | 1 | - |  69  | E | 5 |
 |II         |[Object-Oriented Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/POO-Object_Oriented_Programming)|POO |C++| 2 | - | 2 | - |  94  | E | 6 |
-| II        |[Data Structures](https://github.com/DenisaXXIV/data-structures)|SD |C++| 2 | - | 2 | - |  94  | E | 6 |
+| II        |[Data Structures](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/SD%20-%20Data_Structures)|SD |C++| 2 | - | 2 | - |  94  | E | 6 |
 | II        |[Operating Systems](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_1/Semester_II/SO-Operating_Systems)|SO |Batchfile| 2 | - | 2 | - |  94  | E | 6 |
 | II        |German|- |A1| 1 | 1 | - | - |  22  | C | 2 |
 | II        |Pedagogy |FP+TMC|-| 1 | 1 | - | - |  -  | - | 5 |
