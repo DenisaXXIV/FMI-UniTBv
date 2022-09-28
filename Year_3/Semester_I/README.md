@@ -6,16 +6,15 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 ## III. *Year III*:
 
-| Semester | Discipline                                            |   Code   | C | S | L | P |  SI  | V | Credits |
-|----------|-------------------------------------------------------|----------|---|---|---|---|------|---|---------|
-| I        |[Software Engineering](#)| IS | 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Logical and Functional Programming](#)| PLF | 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Development of web applications](#)| DAW | 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Practice of Specialization](#)| PS | - | - | - | 8 |  38  | C | 5 |
-| I        |[Build the software - build the future](#)| ? | 2 | - | 2 | - |  69  | C | 5 |
-| I        |[Microsoft SQL Server](#)| SQL | 2 | - | 2 | - |  69  | C | 5 |
+| Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
+|----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
+| I        |[Software Engineering](#)| IS || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Logical and Functional Programming](#)| PLF || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Development of web applications](#)| DAW || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
+| I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
 | I        |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
-
 
 I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
 
