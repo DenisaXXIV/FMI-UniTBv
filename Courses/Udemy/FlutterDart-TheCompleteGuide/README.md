@@ -27,5 +27,5 @@ You can build apps with Flutter using any text editor combined with our command-
 
 </details>
 
-<sub>I learned to make this application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.javatpoint.com)</sub>
+<sub>I learned to make this application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>
 
