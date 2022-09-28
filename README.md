@@ -61,8 +61,8 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
 | I        |[Software Engineering](#)| IS || 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Logical and Functional Programming](#)| PLF || 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Development of web applications](#)| DAW || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Logical and Functional Programming](#)| PLF |LISP/Prolog| 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Development of web applications](#)| DAW | Angular/React | 2 | - | 2 | - |  69  | E | 5 |
 | I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
 | I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
 | I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
@@ -70,7 +70,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
-| II       |[IT Project Management](#)| MPI || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[IT Project Management](#)| MPI | Agile | 2 | - | 2 | - |  85  | E | 5 |
 | II       |[Parallel, Concurrent and Distributed Programming](#)| PPCD || 2 | - | 2 | - |  85  | E | 5 |
 | II       |[Probabilities and Statistics for Autonomous Systems](#)| PS | Math | 2 | 1 | 1 | - |  85  | E | 5 |
 | II       |[Practice for the Development of the Bachelor's Thesis](#)| ? || - | - | - | 6 |  65  | C | 5 |
