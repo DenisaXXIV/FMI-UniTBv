@@ -4,18 +4,17 @@ In this repository you can find all homeworks, projects and resources regarding 
 You may use these materials as long as you mention the source and the author. <br>
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
-## II. *Year II*:
+## III. *Year III*:
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
-| II        |Automata, Calculability and Complexity|ACC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
-| II        |[Visual Programming Environments](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/MVP%20-%20Visual%20Programming%20Environments)|MVP |C#| 2 | - | 2 | - |  69  | E | 5 |
-| II        |[Computer Networks](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/RC%20-%20Computer%20Networking)|RC |C#| 2 | - | 2 | - |  69  | E | 5 |
-| II        |[Modern 3D Graphic Modeling Systems in C ++](#)|SMM |C++| 2 | - | 2 | - |  69  | C | 5 |
-| II        |[Client Application Development](#)|DAC |Angular/C#| 2 | - | 2 | - |  69  | C | 5 |
-| II        |[Digital Image Processing](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/PID%20-%20Digital%20Image%20Processing)|PID |C#| 2 | - | 2 | - |  69  | C | 5 |
-| II        |Handling Large Projects (SIEMENS) |HLP |C++| 2 | - | - | - |  -  | - | - |
-| II        |Specialty Didactics (Pedagogy) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
+| II       |[IT Project Management](#)| MPI || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Parallel, Concurrent and Distributed Programming](#)| PPCD || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Probabilities and Statistics for Autonomous Systems](#)| PS | Math | 2 | 1 | 1 | - |  85  | E | 5 |
+| II       |[Practice for the Development of the Bachelor's Thesis](#)| ? || - | - | - | 6 |  65  | C | 5 |
+| II       |[Programming Mobile Applications](#)| PAM | Kotlin | 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Modeling and Simulation of Dynamic Systems in MATLAB and Simulink](#)| ? | MATLAB| 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 
 I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
