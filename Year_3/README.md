@@ -5,30 +5,27 @@ You may use these materials as long as you mention the source and the author. <b
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 
-## II. *Year II*:
+## III. *Year III*:
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
-| I        |[Graph Algorithms](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/AG-Graph_Algorithms)|AG |JAVA| 2 | 1 | 1 | - |  69  | E | 5 |
-| I        |[Database](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/BD-Database)|BD |SQL| 2 | - | 2 | - |  69  | E | 5 |
-|I         |[Statistical Inference and Machine Learning ](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/ISML-Statistical_Inference_and_Machine_Learning)|ISML |Python| 2 | 1 | 1 | - |  69  | C | 6 |
-| I        |[Formal languages and compilers](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/LFC-Formal%20languages%20and%20compilers)|LFC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
-| I        |[Programming Environments and Tools ](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/README.md)|MIP |Java| 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Advanced C ++ Programming  ](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_I/PAC-Advanced_C%2B%2B_Programming)|PAC |C++| 2 | - | 2 | - |  69  | C | 5 |
-| I        |Deep Learning ( XPERI )|DL |Python| 2 | - | - | - |  -  | - | - |
-| I        |Pedagogy |TMI+TME |-| 1 | 1 | - | - |  -  | - | 5 |
-| I        |Physical Education |EdFiz |hike | - | 2 | - | - |  -  | A/R | 2 |
+| I        |[Software Engineering](#)| IS || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Logical and Functional Programming](#)| PLF || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Development of web applications](#)| DAW || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
+| I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
-| II        |Automata, Calculability and Complexity|ACC |C++| 2 | 1 | 1 | - |  69  | E | 5 |
-| II        |[Visual Programming Environments](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/MVP%20-%20Visual%20Programming%20Environments)|MVP |C#| 2 | - | 2 | - |  69  | E | 5 |
-| II        |[Computer Networks](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/RC%20-%20Computer%20Networking)|RC |C#| 2 | - | 2 | - |  69  | E | 5 |
-| II        |[Modern 3D Graphic Modeling Systems in C ++](#)|SMM |C++| 2 | - | 2 | - |  69  | C | 5 |
-| II        |[Client Application Development](#)|DAC |Angular/C#| 2 | - | 2 | - |  69  | C | 5 |
-| II        |[Digital Image Processing](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/PID%20-%20Digital%20Image%20Processing)|PID |C#| 2 | - | 2 | - |  69  | C | 5 |
-| II        |Handling Large Projects (SIEMENS) |HLP |C++| 2 | - | - | - |  -  | - | - |
-| II        |Specialty Didactics (Pedagogy) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
+| II       |[IT Project Management](#)| MPI || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Parallel, Concurrent and Distributed Programming](#)| PPCD || 2 | - | 2 | - |  85  | E | 5 |
+| II       |[Probabilities and Statistics for Autonomous Systems](#)| PS | Math | 2 | 1 | 1 | - |  85  | E | 5 |
+| II       |[Practice for the Development of the Bachelor's Thesis](#)| ? || - | - | - | 6 |  65  | C | 5 |
+| II       |[Programming Mobile Applications](#)| PAM | Kotlin | 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Modeling and Simulation of Dynamic Systems in MATLAB and Simulink](#)| ? | MATLAB| 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 
 
