@@ -13,7 +13,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | I        |[Development of web applications](#)| DAW || 2 | - | 2 | - |  69  | E | 5 |
 | I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
 | I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
-| I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Microsoft SQL Server](#)| SQL | SQL | 2 | - | 2 | - |  69  | C | 5 |
 | I        |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 
