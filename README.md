@@ -60,12 +60,12 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
 |----------|-------------------------------------------------------|----------|--------|---|---|---|---|------|---|---------|
-| I        |[Software Engineering](#)| IS || 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Software Engineering](#)| IS | Java | 2 | - | 2 | - |  69  | E | 5 |
 | I        |[Logical and Functional Programming](#)| PLF |LISP/Prolog| 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Development of web applications](#)| DAW | Angular/React | 2 | - | 2 | - |  69  | E | 5 |
-| I        |[Practice of Specialization](#)| PS || - | - | - | 8 |  38  | C | 5 |
-| I        |[Build the software - build the future](#)| ? || 2 | - | 2 | - |  69  | C | 5 |
-| I        |[Microsoft SQL Server](#)| ? | SQL | 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Development of web applications](#)| DAW | Angular | 2 | - | 2 | - |  69  | E | 5 |
+| I        |[Practice of Specialization](#)| PS | Java | - | - | - | 8 |  38  | C | 5 |
+| I        |[Internet of Things](#)| IoT | C++ | 2 | - | 2 | - |  69  | C | 5 |
+| I        |[Microsoft SQL Server](#)| MSQL/ Angular/ .NET | SQL | 2 | - | 2 | - |  69  | C | 5 |
 | I        |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 | Semester | Discipline                                            |   Code   | Details| C | S | L | P |  SI  | V | Credits |
