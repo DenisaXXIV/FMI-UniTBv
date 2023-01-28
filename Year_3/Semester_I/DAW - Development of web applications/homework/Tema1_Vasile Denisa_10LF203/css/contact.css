@@ -1,0 +1,222 @@
+#contact {
+  background-color: #F0E7D6;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 12px;
+  padding: 50px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content:space-evenly;
+  margin-bottom: 30px;
+}
+
+ #contact #details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+   #contact a {
+      font: normal normal 500 2vh sans-serif;
+      color: rgb(14, 3, 3);
+      text-decoration: none;
+}
+
+    #contact  mat-icon {
+        margin-right: 5px;
+      }
+
+
+ #contact .btn-container {
+    height: 180px;
+    margin-left: 20px;
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+    flex-direction: column;
+    justify-items:right;
+    flex-wrap: nowrap;
+    flex-flow: column;
+}
+   
+   
+   /* ===================================================== FACEBOOK ===================================================== */
+.btn-f {
+     min-width: 100px;
+     background-color: #fff;
+     padding: 1em 2rem;
+     font-family: sans-serif;
+     font-weight: 600;
+     text-decoration: none;
+     border-radius: 50px;
+     color: #286ed6;
+     display: flex;
+     justify-content: center;
+     margin-right: 10px;
+     transition: all 0.2s ease-in-out;
+   }
+   
+   .btn-f svg {
+     color: #286ed6;
+     font-size: 20px;
+     padding-right: 10px;
+     transition: all 0.3s ease-in-out;
+   }
+   
+   .btn-f span {
+     font-family: sans-serif;
+     align-self: center;
+     transform: translateX(0px);
+     transition: all 0.1s ease-in-out;
+     opacity: 1;
+   }
+   
+   .btn-f:hover {
+     transform: scale(1.1);
+     background-image: linear-gradient(
+       45deg,
+       #9ab8e6 0%,
+       #286ed6 50%,
+       #003f9c 100% 
+       );
+     box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+   }
+   
+   .btn-f:hover svg {
+     transform: translateX(45px);
+     padding-right: 0;
+     color: #fff;
+   }
+   
+   .btn-f:hover span {
+     transform: translateX(30px);
+     opacity: 0;
+   }
+   
+   
+   /* ===================================================== LINKED IN ===================================================== */
+   .btn-l {
+     min-width: 100px;
+     background-color: #fff;
+     padding: 1em 2rem;
+     font-family: sans-serif;
+     font-weight: 600;
+     text-decoration: none;
+     border-radius: 50px;
+     color: #2867B2;
+     display: flex;
+     justify-content: center;
+     margin-right: 10px;
+     transition: all 0.2s ease-in-out;
+   }
+   
+   .btn-l svg {
+     color: #2867B2;
+     font-size: 20px;
+     padding-right: 10px;
+     transition: all 0.3s ease-in-out;
+   }
+   
+   .btn-l span {
+     font-family: sans-serif;
+     align-self: center;
+     transform: translateX(0px);
+     transition: all 0.1s ease-in-out;
+     opacity: 1;
+   }
+   
+   .btn-l:hover {
+     transform: scale(1.1);
+     background-image: linear-gradient(
+       45deg,
+       #73a1d9 0%,
+       #2867b2 50%,
+       #04346e 100% 
+       );
+     box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+   }
+   
+   .btn-l:hover svg {
+     transform: translateX(45px);
+     padding-right: 0;
+     color: #fff;
+   }
+   
+   .btn-l:hover span {
+     transform: translateX(30px);
+     opacity: 0;
+   }
+
+   /* ===================================================== GITHUB ===================================================== */
+   .btn-git {
+     min-width: 100px;
+     background-color: #fff;
+     padding: 1em 2rem;
+     font-family: sans-serif;
+     font-weight: 600;
+     text-decoration: none;
+     border-radius: 50px;
+     color: #211F1F;
+     display: flex;
+     justify-content: center;
+     margin-right: 10px;
+     transition: all 0.2s ease-in-out;
+   }
+   
+   .btn-git svg {
+     color: #211F1F;
+     font-size: 20px;
+     padding-right: 10px;
+     transition: all 0.3s ease-in-out;
+   }
+   
+   .btn-git span {
+     font-family: sans-serif;
+     align-self: center;
+     transform: translateX(0px);
+     transition: all 0.1s ease-in-out;
+     opacity: 1;
+   }
+   
+   .btn-git:hover {
+     transform: scale(1.1);
+     background-image: linear-gradient(
+       45deg,
+       #6e6e6e 0%,
+       #211f1f 50%,
+       #000000 100% 
+       );
+     box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+   }
+   
+   .btn-git:hover svg {
+     transform: translateX(45px);
+     padding-right: 0;
+     color: #fff;
+   }
+   
+   .btn-git:hover span {
+     transform: translateX(30px);
+     opacity: 0;
+   }
+
+  }
+}
+
+@media (max-width: 800px) {
+  #all {
+    #details {  
+      a {
+        font: normal normal 500 1.3vh sans-serif;
+        color: rgb(14, 3, 3);
+        text-decoration: none;
+  
+        mat-icon {
+          margin-right: 5px;
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}

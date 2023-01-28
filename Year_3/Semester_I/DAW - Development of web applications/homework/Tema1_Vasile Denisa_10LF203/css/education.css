@@ -1,0 +1,37 @@
+#education {
+    background-color: #F0E7D6;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 12px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content:space-evenly;
+    margin-bottom: 30px;
+}
+
+    h1 {
+        font: normal small-caps 700 4vh/1 system-ui;
+    }
+
+    h2{
+        font-size: 2.6vh;
+    }
+  
+      a {
+        font: normal normal 300 2vh sans-serif;
+        color: rgb(14, 3, 3);
+        text-decoration: none;
+        display: flex;
+        flex-direction: row;
+}
+  
+        mat-icon {
+          margin-right: 5px;
+        }
+
+        p {
+          color: rgba(14, 3, 3, 0.525);
+          margin-left: 10px;
+        }
