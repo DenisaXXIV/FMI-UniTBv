@@ -92,6 +92,7 @@ Nr.Crt.|Course|Souce|Year of completion|
 6|1 Hour HTML|[here](https://www.udemy.com/course/1-hour-html/)|2023|
 7|Learn XML Crash Course: Discover Essential XML Fundamentals|[here](https://www.udemy.com/course/learn-xml-crash-course/?kw=learn+xml+crash&src=sac)|2023|
 8|CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)|[here](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/?kw=css+the+complete+guide&src=sac)|2023|
+9|Git Going Fast: One Hour Git Crash Course|[here](https://www.udemy.com/course/git-going-fast/)|in progress...|
 
 <!---
 
