@@ -92,7 +92,18 @@ Nr.Crt.|Course|Souce|Year of completion|
 6|1 Hour HTML|[here](https://www.udemy.com/course/1-hour-html/)|2023|
 7|Learn XML Crash Course: Discover Essential XML Fundamentals|[here](https://www.udemy.com/course/learn-xml-crash-course/?kw=learn+xml+crash&src=sac)|2023|
 8|CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)|[here](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/?kw=css+the+complete+guide&src=sac)|2023|
-9|Git Going Fast: One Hour Git Crash Course|[here](https://www.udemy.com/course/git-going-fast/)|in progress...|
+9|Git Going Fast: One Hour Git Crash Course|[here](https://www.udemy.com/course/git-going-fast/)|2023|
+10|Wanna Learn JMeter ?|[here](https://www.udemy.com/course/basic-to-expert-jmeter/)|2023|
+11|Jira Essentials|[here](https://www.udemy.com/course/jira-essentials/)|2023|
+12|Continuous Code Inspection with SonarQube|[here](https://www.udemy.com/course/continuous-code-inspection-with-sonarqube/)|2023|
+13|Learn MariaDB SQL|[here](https://www.udemy.com/course/learn-mariadb-sql-for-beginners-from-scratch/)|2023|
+14|Git & GitHub|[here](https://www.udemy.com/course/git-github-practical-guide/)|2023|
+15|Angular Essentials|[here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)|2023|
+
+<!--- 
+10|Git|[here](#)|2023|
+
+--->
 
 <!---
 
