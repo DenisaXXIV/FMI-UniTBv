@@ -82,23 +82,23 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 ### 1) *Udemy*:
 
-Nr.Crt.|Course|Souce|Year of completion|
-|------|------|-----|------------------|
-1|[Flutter & Dart - The Complete Guide [2022 Edition]](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide) |[here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)|in progress...|
-2|UML Class Diagrams for Programmers|[here](https://www.udemy.com/course/uml-class-diagrams-for-programmers/)|2022|
-3|Learn Java Unit Testing with Junit & Mockito in 30 Steps|[here](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)|2022|
-4|SQL Server Essentials, from Scratch|[here](https://www.udemy.com/course/sql-server-essentials/?kw=sql+server+ess&src=sac)|2023|
-5|Java Programming Masterclass updated to Java 17|[here](https://www.udemy.com/course/java-the-complete-java-developer-course/?kw=java+programming+master&src=sac)|2023|
-6|1 Hour HTML|[here](https://www.udemy.com/course/1-hour-html/)|2023|
-7|Learn XML Crash Course: Discover Essential XML Fundamentals|[here](https://www.udemy.com/course/learn-xml-crash-course/?kw=learn+xml+crash&src=sac)|2023|
-8|CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)|[here](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/?kw=css+the+complete+guide&src=sac)|2023|
-9|Git Going Fast: One Hour Git Crash Course|[here](https://www.udemy.com/course/git-going-fast/)|2023|
-10|Wanna Learn JMeter ?|[here](https://www.udemy.com/course/basic-to-expert-jmeter/)|2023|
-11|Jira Essentials|[here](https://www.udemy.com/course/jira-essentials/)|2023|
-12|Continuous Code Inspection with SonarQube|[here](https://www.udemy.com/course/continuous-code-inspection-with-sonarqube/)|2023|
-13|Learn MariaDB SQL|[here](https://www.udemy.com/course/learn-mariadb-sql-for-beginners-from-scratch/)|2023|
-14|Git & GitHub|[here](https://www.udemy.com/course/git-github-practical-guide/)|2023|
-15|Angular Essentials|[here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)|2023|
+Nr.Crt.|Course|Subject|Souce|Year of completion|
+|------|------|-------|-----|------------------|
+1|[Flutter & Dart - The Complete Guide [2022 Edition]](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide) |Flutter,Dart|[here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)|in progress...|
+2|UML Class Diagrams for Programmers|UML|[here](https://www.udemy.com/course/uml-class-diagrams-for-programmers/)|2022|
+3|Learn Java Unit Testing with Junit & Mockito in 30 Steps|JUnit, Mockito, PowerMock|[here](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)|2022|
+4|SQL Server Essentials, from Scratch|SQL Server|[here](https://www.udemy.com/course/sql-server-essentials/?kw=sql+server+ess&src=sac)|2023|
+5|Java Programming Masterclass updated to Java 17|Java,JavaFX,JUnit,JDBC,SceneBuilder|[here](https://www.udemy.com/course/java-the-complete-java-developer-course/?kw=java+programming+master&src=sac)|2023|
+6|1 Hour HTML|HTML|[here](https://www.udemy.com/course/1-hour-html/)|2023|
+7|Learn XML Crash Course: Discover Essential XML Fundamentals|XML,XSLT|[here](https://www.udemy.com/course/learn-xml-crash-course/?kw=learn+xml+crash&src=sac)|2023|
+8|CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)|CSS|[here](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/?kw=css+the+complete+guide&src=sac)|2023|
+9|Git Going Fast: One Hour Git Crash Course|Git|[here](https://www.udemy.com/course/git-going-fast/)|2023|
+10|Wanna Learn JMeter ?|JMeter|[here](https://www.udemy.com/course/basic-to-expert-jmeter/)|2023|
+11|Jira Essentials|Jira|[here](https://www.udemy.com/course/jira-essentials/)|2023|
+12|Continuous Code Inspection with SonarQube|SonarQube|[here](https://www.udemy.com/course/continuous-code-inspection-with-sonarqube/)|2023|
+13|Learn MariaDB SQL|MariaDB|[here](https://www.udemy.com/course/learn-mariadb-sql-for-beginners-from-scratch/)|2023|
+14|Git & GitHub|Git, GitHub|[here](https://www.udemy.com/course/git-github-practical-guide/)|2023|
+15|Angular Essentials|Angular,TypeScript|[here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)|2023|
 
 <!--- 
 10|Git|[here](#)|2023|
