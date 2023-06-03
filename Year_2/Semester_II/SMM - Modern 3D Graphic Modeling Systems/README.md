@@ -18,15 +18,23 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
    <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Move the .dll files to the directory that contains your classes:</strong> you cand find the .dll files in bin\Release\x64</li>
   <li><strong>Edit your Project Properties in your VS:</strong></li>
-    <ol>
+    <ul>
       <li><strong>C/C++ -> General -> Additional Include Directories:</strong> here add the include directories inside of glew and freeglut</li>
       <li><strong>Linker -> General -> Additional Library Directories:</strong> here add the lib\Release\x64 directories inside of glew and freeglut</li>
-      <li><strong>C/C++ -> Input -> Additional Dependencies:</strong> here add the .dll files added at step 7, but with .lib extension, not .dll</li>
-    </ol>
+      <li><strong>Linker -> Input -> Additional Dependencies:</strong> here add the .dll files added at step 7, but with .lib extension, not .dll</li>
+    </ul>
   </li>
 </ol>
 
 You will need to do steps from 3 to 8 for every project you start.
+
+## Laboratories
+
+|Laboratory|Subject|Options|
+|----------|-------|-------|
+|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|fixed pipe / shaders|
+|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11|
+|[Lab3](#)|
 
 
 </br>
