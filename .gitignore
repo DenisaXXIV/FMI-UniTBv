@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#Ignore external libraries from year2/smm
+/External/glm/
+
 # Compiled Object files
 *.slo
 *.lo
