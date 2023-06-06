@@ -32,11 +32,11 @@ You will need to do steps from 3 to 8 for every project you start.
 
 ## Laboratories
 
-|Laboratory|Subject|Options|
+|Laboratory|Subject|Options|External Libraries|
 |----------|-------|-------|
-|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|
-|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11|
-|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|
+|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|GLEW , FreeGlut|
+|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11|GLEW , FreeGlut, GLM|
+|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|GLEW , FreeGlut, GLM|
 |[Lab4](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab4)|Projections and Primitive Indexing|OpenGL shaders|
 |[Lab5](#)|Interactive Room|OpenGL shaders|
 |[Lab6](#)|Textures|OpenGL shaders|
