@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab4 - Projections and Primitive Indexing", "Lab4 - Projections and Primitive Indexing\Lab4 - Projections and Primitive Indexing.vcxproj", "{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Debug|x64.ActiveCfg = Debug|x64
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Debug|x64.Build.0 = Debug|x64
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Debug|x86.ActiveCfg = Debug|Win32
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Debug|x86.Build.0 = Debug|Win32
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Release|x64.ActiveCfg = Release|x64
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Release|x64.Build.0 = Release|x64
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Release|x86.ActiveCfg = Release|Win32
+		{0999C355-9FBA-4E6B-AA5B-D8E4A6DBDA52}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FF8855-211A-484C-B63F-CE98F4CD89A5}
+	EndGlobalSection
+EndGlobal

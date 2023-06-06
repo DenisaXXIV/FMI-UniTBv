@@ -1,0 +1,9 @@
+C/C++ -> GENERAL:
+..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;
+
+Linker -> General:
+..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;
+
+Linker -> Input:
+
+freeglut.lib;glew32.lib;
