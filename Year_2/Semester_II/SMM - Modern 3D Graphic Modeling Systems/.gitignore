@@ -3,6 +3,7 @@
 
 #Ignore external libraries from year2/smm
 **/External/glm/
+**/External/glfw-3.3.8
 
 # Compiled Object files
 *.slo
