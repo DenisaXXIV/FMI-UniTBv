@@ -10,17 +10,18 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 ## Configure Visual Studio 2022 for Graphic Modeling Systems with C++
 
 <ol>
-  <li><strong>Download glew library:</strong> <a href="https://glew.sourceforge.net/">Download glew here</a></li>
-  <li><strong>Download freeglut library:</strong> <a href="https://freeglut.sourceforge.net/">Download freeglut here</a></li>
+  <li><strong>Download GLEW library:</strong> <a href="https://glew.sourceforge.net/">Download GLEW here</a></li>
+  <li><strong>Download FreeGLUT library:</strong> <a href="https://freeglut.sourceforge.net/">Download FreeGLUT here</a></li>
+  <li><strong>Download GLM library:</strong> <a href="https://glm.g-truc.net/0.9.9/index.html">Download GLM here</a></li>
   <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Make an "External" directory:</strong> inside the folder that contains the .sln file create a new directory with the name "External"</li>
-  <li><strong>Move glew and freeglut in External directory:</strong> move unzipped folders of glew and freeglut to the "External" directory created in the previous step</li>
+  <li><strong>Move the downloaded libraries in External directory:</strong> move unzipped folders to the "External" directory created in the previous step</li>
    <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Move the .dll files to the directory that contains your classes:</strong> you cand find the .dll files in bin\Release\x64</li>
   <li><strong>Edit your Project Properties in your VS:</strong></li>
     <ul>
-      <li><strong>C/C++ -> General -> Additional Include Directories:</strong> here add the include directories inside of glew and freeglut</li>
-      <li><strong>Linker -> General -> Additional Library Directories:</strong> here add the lib\Release\x64 directories inside of glew and freeglut</li>
+      <li><strong>C/C++ -> General -> Additional Include Directories:</strong> here add the include directories</li>
+      <li><strong>Linker -> General -> Additional Library Directories:</strong> here add the lib\Release\x64 directories</li>
       <li><strong>Linker -> Input -> Additional Dependencies:</strong> here add the .dll files added at step 7, but with .lib extension, not .dll</li>
     </ul>
   </li>
