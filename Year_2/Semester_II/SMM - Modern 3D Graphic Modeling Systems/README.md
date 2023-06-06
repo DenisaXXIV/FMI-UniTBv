@@ -13,6 +13,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
   <li><strong>Download GLEW library:</strong> <a href="https://glew.sourceforge.net/">Download GLEW here</a></li>
   <li><strong>Download FreeGLUT library:</strong> <a href="https://freeglut.sourceforge.net/">Download FreeGLUT here</a></li>
   <li><strong>Download GLM library:</strong> <a href="https://glm.g-truc.net/0.9.9/index.html">Download GLM here</a></li>
+  <li><strong>Download GLFW library:</strong> <a href="https://www.glfw.org/">Download GLFW here</a></li>
   <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Make an "External" directory:</strong> inside the folder that contains the .sln file create a new directory with the name "External"</li>
   <li><strong>Move the downloaded libraries in External directory:</strong> move unzipped folders to the "External" directory created in the previous step</li>
@@ -33,9 +34,14 @@ You will need to do steps from 3 to 8 for every project you start.
 
 |Laboratory|Subject|Options|
 |----------|-------|-------|
-|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|fixed pipe / shaders|
+|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|
 |[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11|
-|[Lab3](#)|
+|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|
+|[Lab4](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab4)|Projections and Primitive Indexing|OpenGL shaders|
+|[Lab5](#)|Interactive Room|OpenGL shaders|
+|[Lab6](#)|Textures|OpenGL shaders|
+|[Lab7](#)|Light|OpenGL shaders|
+|[Lab8](#)|Shadow Mapping|OpenGL shaders|
 
 
 </br>
