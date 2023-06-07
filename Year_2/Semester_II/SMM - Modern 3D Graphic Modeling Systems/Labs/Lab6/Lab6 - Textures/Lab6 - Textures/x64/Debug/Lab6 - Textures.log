@@ -1,0 +1,4 @@
+﻿  Lab6 - Textures.cpp
+D:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab6\Lab6 - Textures\Lab6 - Textures\Lab6 - Textures.cpp(698,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab6\Lab6 - Textures\Lab6 - Textures\Lab6 - Textures.cpp(704,21): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab6 - Textures.vcxproj -> D:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab6\Lab6 - Textures\x64\Debug\Lab6 - Textures.exe

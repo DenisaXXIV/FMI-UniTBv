@@ -1,9 +1,14 @@
 C/C++ -> GENERAL:
+..\External\glew-2.1.0\include;..\External\freeglut\include;
 ..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;
+..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;
 
 Linker -> General:
+..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;
 ..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;
+..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;
 
 Linker -> Input:
 
 freeglut.lib;glew32.lib;
+opengl32.lib;freeglut.lib;glew32.lib;glfw3.lib;
