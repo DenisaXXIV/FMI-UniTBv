@@ -2,6 +2,7 @@ C/C++ -> GENERAL:
 ..\External\glew-2.1.0\include;..\External\freeglut\include;
 ..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;
 ..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;
+..\External\stb-master\;
 
 Linker -> General:
 ..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;

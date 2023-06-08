@@ -1,12 +1,29 @@
-# SMM - Modern 3D Graphic Modeling Systems with C++
-"Modern 3D Graphic Modeling Systems with C++" is a comprehensive course that teaches the principles of 3D modeling using C++. Students learn key concepts like transformations, lighting, shading, and rendering. The course focuses on using OpenGL, glew, and freeglut libraries to create visually captivating 3D environments. Through hands-on assignments, students apply theoretical knowledge and build a portfolio of projects. The course is ideal for aspiring professionals in gaming, virtual reality, and computer-aided design, providing them with the necessary skills to explore the possibilities of 3D graphic modeling.
+# Lab5 - Interactive Room
+
+Welcome to the OpenGL Interactive Room! This repository is dedicated to providing you with code samples and resources to enhance your understanding and skills in creating an interactive room using OpenGL, C++ and Visual Studio 2022.
 
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
+## About OpenGL
 
-## Configure Visual Studio 2022 for Graphic Modeling Systems with C++
+OpenGL (Open Graphics Library) is a powerful and widely-used cross-platform API (Application Programming Interface) for rendering 2D and 3D computer graphics. It provides developers with a set of functions and capabilities to interact with the GPU (Graphics Processing Unit) and create stunning visuals for various applications, including games, simulations, and scientific visualization.
+
+You can find more: [here](%5Bhttps://www.opengl.org/%5D(https://www.opengl.org/))
+
+## About Interactive Room
+
+An interactive room in OpenGL refers to a virtual environment where users can navigate and interact with the surroundings. It typically involves rendering a 3D room with various objects, implementing user controls for movement and interaction, and incorporating visual and audio effects to create an immersive experience.
+
+## Laboratory Overview
+
+In this folder,you will find a collection of code samples and projects that cover various aspects of creating an interactive room in OpenGL. The repository was designed to guide me through the concepts, techniques, and best practices for building interactive environments using OpenGL.
+
+You can find more: [Laborator 5 - Camera interactiva](https://docs.google.com/document/d/1hRJHu1qAHkIcre5gYzL3H2xDd5nspU0ITuwicDa54E0/edit)
+
+## Getting Started for Visual Studio 2022
 
 <ol>
+  <li><strong>Ensure you have Visual Studio 2022 installed on your system, </strong>as it provides an excellent development environment for C++ and OpenGL.</li>
   <li><strong>Download GLEW library:</strong> <a href="https://glew.sourceforge.net/">Download GLEW here</a></li>
   <li><strong>Download FreeGLUT library:</strong> <a href="https://freeglut.sourceforge.net/">Download FreeGLUT here</a></li>
   <li><strong>Download GLM library:</strong> <a href="https://glm.g-truc.net/0.9.9/index.html">Download GLM here</a></li>
@@ -25,21 +42,19 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
   </li>
 </ol>
 
-<i>You will need to do steps from 3 to 8 for every project you start.<i>
+## Command Workflow Showcase
 
-## Laboratories
+It is required to build a 3D application in OpenGL that displays 9 colored cubes, and the camera rotates around the cube in the center of the scene. Change the code as follows:
 
-|Laboratory|Subject|Options|External Libraries|
-|----------|-------|-------|------------------|
-|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|GLEW , FreeGlut|
-|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11||
-|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab4](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab4)|Projections and Primitive Indexing|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab5](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab5)|Interactive Room|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab6](#)|Textures|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab7](#)|Light|OpenGL shaders||
-|[Lab8](#)|Shadow Mapping|OpenGL shaders||
+1. Let the camera move: forward, backward, left, right, up, down.
 
+2. To bring the camera to the initial position and orientation when the "R" key is pressed.
+
+3. To rotate the camera according to the movement of the cursor.
+
+4. To achieve the zoom effect when moving the mouse wheel.
+   
+   ![](https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab5/resources/interactive%20room.gif)
 
 </br>
 </br>

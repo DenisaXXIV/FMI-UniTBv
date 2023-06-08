@@ -276,7 +276,7 @@ const GLchar* FragmentShader =
 
 void CreateVBO()
 {
-	/* Prisme*/
+	/* Prisme
 	float vertices[] = {
 		0.0f, 0.0f, 1.0f,	1.0f, 0.0f, 0.0f,	1.0f, 1.0f,
 		1.0f, 0.0f, 1.0f,	0.0f, 1.0f, 0.0f,	0.0f, 1.0f,
@@ -295,9 +295,9 @@ void CreateVBO()
 		4, 3, 5,
 		0, 1, 4,
 		3, 2, 5
-	};
+	};*/
 
-	/* Cuburi
+	/* Cuburi */
 	float vertices[] = {
 		0.0f, 0.0f, 1.0f,   1.0f, 0.0f, 0.0f,   1.0f, 1.0f,
 		1.0f, 0.0f, 1.0f,   0.0f, 1.0f, 0.0f,   1.0f, 0.0f,
@@ -322,7 +322,7 @@ void CreateVBO()
 	   3,2,6,
 	   3,6,7
 	};
-	*/
+
 
 	/* Piramide
 	float vertices[] = {
@@ -349,7 +349,7 @@ void CreateVBO()
 	unsigned int indices[] = {
 	   0, 1, 3,
 	   1, 2, 3
-	};*/
+	}; */
 
 
 	glGenVertexArrays(1, &VAO);

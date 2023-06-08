@@ -1,16 +1,28 @@
-# SMM - Modern 3D Graphic Modeling Systems with C++
-"Modern 3D Graphic Modeling Systems with C++" is a comprehensive course that teaches the principles of 3D modeling using C++. Students learn key concepts like transformations, lighting, shading, and rendering. The course focuses on using OpenGL, glew, and freeglut libraries to create visually captivating 3D environments. Through hands-on assignments, students apply theoretical knowledge and build a portfolio of projects. The course is ideal for aspiring professionals in gaming, virtual reality, and computer-aided design, providing them with the necessary skills to explore the possibilities of 3D graphic modeling.
+# Lab1 - OpenGL Fixed Pipes and Shader
+
+Welcome to the OpenGL Fixed Pipes and Shader! This part of the repository is designed to provide you with the hands-on learning experience that i had for both fixed-function pipelines and shaders in OpenGL using C++ and Visual Studio 2022.
 
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
+## About OpenGL
 
-## Configure Visual Studio 2022 for Graphic Modeling Systems with C++
+OpenGL (Open Graphics Library) is a powerful and widely-used cross-platform API (Application Programming Interface) for rendering 2D and 3D computer graphics. It provides developers with a set of functions and capabilities to interact with the GPU (Graphics Processing Unit) and create stunning visuals for various applications, including games, simulations, and scientific visualization.
+
+You can find more: [here](%5Bhttps://www.opengl.org/%5D(https://www.opengl.org/))
+
+## Laboratory Overview
+
+In this folder, you will find a collection of code samples and projects that cover both the traditional fixed-function pipeline and the modern shader-based approach in OpenGL. The purpose of this laboratory was to help me understand and compare the two techniques, allowing me to make informed decisions when designing and implementing my future graphics applications.
+
+You can find more: [Laborator 1 - Hello OpenGL](https://docs.google.com/document/d/1nLhLVaYt1ExojOA-wbWUkgFMjVlxDk7ZceTFp00eISY/edit)
+
+## Getting Started for Visual Studio 2022
 
 <ol>
+  <li><strong>Ensure you have Visual Studio 2022 installed on your system, </strong>as it provides an excellent development environment for C++ and OpenGL.</li>
   <li><strong>Download GLEW library:</strong> <a href="https://glew.sourceforge.net/">Download GLEW here</a></li>
   <li><strong>Download FreeGLUT library:</strong> <a href="https://freeglut.sourceforge.net/">Download FreeGLUT here</a></li>
   <li><strong>Download GLM library:</strong> <a href="https://glm.g-truc.net/0.9.9/index.html">Download GLM here</a></li>
-  <li><strong>Download GLFW library:</strong> <a href="https://www.glfw.org/">Download GLFW here</a></li>
   <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Make an "External" directory:</strong> inside the folder that contains the .sln file create a new directory with the name "External"</li>
   <li><strong>Move the downloaded libraries in External directory:</strong> move unzipped folders to the "External" directory created in the previous step</li>
@@ -25,21 +37,22 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
   </li>
 </ol>
 
-<i>You will need to do steps from 3 to 8 for every project you start.<i>
+## Comparision
 
-## Laboratories
+It is required to build a 3D application in OpenGL using the old way of working with the fixed pipe and the new way of working with shaders to display three vertices of the red, green and blue triangle. 
 
-|Laboratory|Subject|Options|External Libraries|
-|----------|-------|-------|------------------|
-|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|GLEW , FreeGlut|
-|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11||
-|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab4](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab4)|Projections and Primitive Indexing|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab5](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab5)|Interactive Room|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab6](#)|Textures|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab7](#)|Light|OpenGL shaders||
-|[Lab8](#)|Shadow Mapping|OpenGL shaders||
+1. Change the code for old OpenGL so that you have an X made of 5 green dots on the blue screen. 
 
+2. Change the code for the new OpenGL so that you have 3 collinear green points on the red area.
+
+|         | Fixed pipe                                                                                                                                                                     | Shaders                                                                                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Initial | ![](https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1/resources/old.png)        | ![](https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1/resources/new.png)        |
+| Solved  | ![](https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1/resources/old-solved.png) | ![](https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1/resources/new-solved.png) |
+
+<br>
+
+<br>
 
 </br>
 </br>
