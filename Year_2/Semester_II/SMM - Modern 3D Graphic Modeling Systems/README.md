@@ -47,6 +47,7 @@ You can find more: [here]([https://www.opengl.org/](https://www.opengl.org/))
 | [Lab6](#)                                                                                                                                      | Textures                           | OpenGL shaders              | GLEW , FreeGlut, GLM, GLFW, OpenGL, STB image |
 | [Lab7](#)                                                                                                                                      | Light                              | OpenGL shaders              |                                               |
 | [Lab8](#)                                                                                                                                      | Shadow Mapping                     | OpenGL shaders              |                                               |
+| [Lab9](#)                                                                                                                                      | Blending                           | OpenGL shaders              |                                               |
 
 </br>
 </br>
