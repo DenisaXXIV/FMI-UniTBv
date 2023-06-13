@@ -76,13 +76,14 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;..\External\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\External\stb-master\;..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;..\External;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;freeglut.lib;glew32.lib;glfw3.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -93,15 +94,16 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;..\External\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\External\stb-master\;..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;..\External;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;freeglut.lib;glew32.lib;glfw3.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -110,13 +112,14 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;..\External\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\External\stb-master\;..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;..\External;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;freeglut.lib;glew32.lib;glfw3.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -127,15 +130,16 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;..\External\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\External\stb-master\;..\External\glew-2.1.0\include;..\External\freeglut\include;..\External\glm\glm;..\External\glfw-3.3.8\include\GLFW;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;..\External;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\External\glew-2.1.0\lib\Release\x64;..\External\freeglut\lib\x64;..\External\glm\glm;..\External\glfw-3.3.8\lib-vc2022;</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;freeglut.lib;glew32.lib;glfw3.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>

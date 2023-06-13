@@ -1,0 +1,21 @@
+﻿  Lab7 - Light.cpp
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(383,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(385,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(406,15): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(410,15): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(414,15): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(418,15): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(422,15): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(426,15): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(566,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\Lab7 - Light\Lab7 - Light.cpp(567,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab7 - Light.vcxproj -> E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab7\Lab7 - Light - solved\x64\Debug\Lab7 - Light.exe
