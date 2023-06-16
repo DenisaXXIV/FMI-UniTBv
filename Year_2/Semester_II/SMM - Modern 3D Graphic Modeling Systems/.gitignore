@@ -3,6 +3,8 @@
 
 #Ignore external libraries
 **/External/
+**/x64/
+**/.vs/
 
 # Compiled Object files
 *.slo

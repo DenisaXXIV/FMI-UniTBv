@@ -24,11 +24,15 @@ You can find more: [Laborator 8 - Shadow Mapping](https://docs.google.com/docume
 
 Here are the links to the websites where you can find more textures:
 
-1. Texture 1: [Link to floor texture]([Textures for 3D, graphic design and Photoshop!](https://www.textures.com/download/3DScans0128/132311?seamless=130316))
+1. Texture 1: [Link to floor texture](https://www.textures.com/download/3DScans0128/132311?seamless=130316)
 
-2. Freepik: [here](https://www.freepik.com/)
+2. Texture 2: [Link to concrete pavement tiles texture ](https://www.textures.com/download/PBR0682/139217?seamless=147161)
 
-3. Textures.com: [here](https://www.textures.com/)
+3. Texture 3: [Link to parquet texture]((https://www.textures.com/download/PBR0473/138363?seamless=144488)
+
+4. Freepik: [here](https://www.freepik.com/)
+
+5. Textures.com: [here](https://www.textures.com/)
 
 ## Getting Started for Visual Studio 2022
 
@@ -71,11 +75,11 @@ It is required to build a 3D application in openGL, to create the Phong model of
 
 7. Reduce the size of the shadow to 1024X1024 and make a PCF (Percentage-Closer Filter) filter.
 
-| Floor                       | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/mud.gif?raw=true)          |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tuft of Grass**           | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass.gif?raw=true)        |
-| **Tufts of Grass Network**  | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/net-of-grass.gif?raw=true) |
-| **Tuft of Grass & Flower*** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass&flower.gif?raw=true) |
+| Initial              | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab8/resources/initial.gif?raw=true)         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pressing "L" key** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab8/resources/light%20rotates.gif?raw=true) |
+| **Pressing "S" key** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab8/resources/light%20stops.gif?raw=true)   |
+| **4 Cubes**          | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab8/resources/4%20cubes.gif?raw=true)       |
 
 </br>
 </br>
