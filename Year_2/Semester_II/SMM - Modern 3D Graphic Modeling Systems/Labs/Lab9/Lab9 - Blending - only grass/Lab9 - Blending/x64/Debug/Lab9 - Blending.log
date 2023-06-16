@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+  ECameraMovementType.cpp
+  Lab9 - Blending.cpp
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - only grass\Lab9 - Blending\Lab9 - Blending.cpp(51,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab9 - Blending.vcxproj -> E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - only grass\x64\Debug\Lab9 - Blending.exe

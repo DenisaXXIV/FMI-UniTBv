@@ -1,0 +1,7 @@
+﻿  Lab9 - Blending.cpp
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\Lab9 - Blending\Lab9 - Blending.cpp(51,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\Lab9 - Blending\Lab9 - Blending.cpp(70,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\Lab9 - Blending\Lab9 - Blending.cpp(70,53): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\Lab9 - Blending\Lab9 - Blending.cpp(72,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\Lab9 - Blending\Lab9 - Blending.cpp(72,57): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab9 - Blending.vcxproj -> E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab9\Lab9 - Blending - net of grass\x64\Debug\Lab9 - Blending.exe
