@@ -28,11 +28,13 @@ Here are the links to the websites where you can find more textures:
 
 2. Texture 2: [Link to grass texture](https://www.clipartmax.com/download/m2i8Z5i8H7K9b1G6_free-icons-png-grass-alpha-texture-png/#)
 
-3. Freepik: [here](https://www.freepik.com/)
+3. Texture 3: [Link to flower texture](https://www.clipartmax.com/download/m2i8m2Z5N4G6K9A0_alpha-gamma-rho-flower-pink-rose-rose/)
 
-4. Textures.com: [here](https://www.textures.com/)
+4. Freepik: [here](https://www.freepik.com/)
 
-5. ClipArtMax: [here](https://www.clipartmax.com/)
+5. Textures.com: [here](https://www.textures.com/)
+
+6. ClipArtMax: [here](https://www.clipartmax.com/)
 
 ## Getting Started for Visual Studio 2022
 
@@ -71,11 +73,11 @@ It is required to build a 3D application in openGL, which will display a field o
 
 5. To display a network of tufts of grass.
 
-| Floor                       | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/mud.gif?raw=true)          |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tuft of Grass**           | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass.gif?raw=true)        |
-| **Tufts of Grass Network**  | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/net-of-grass.gif?raw=true) |
-| **Tuft of Grass & Flower*** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass&flower.gif?raw=true) |
+| Floor                      | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/mud.gif?raw=true)          |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tuft of Grass**          | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass.gif?raw=true)        |
+| **Tufts of Grass Network** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/net-of-grass.gif?raw=true) |
+| **Tuft of Grass & Flower** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass&flower.gif?raw=true) |
 
 </br>
 </br>

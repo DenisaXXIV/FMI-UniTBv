@@ -1,16 +1,44 @@
-# SMM - Modern 3D Graphic Modeling Systems with C++
-"Modern 3D Graphic Modeling Systems with C++" is a comprehensive course that teaches the principles of 3D modeling using C++. Students learn key concepts like transformations, lighting, shading, and rendering. The course focuses on using OpenGL, glew, and freeglut libraries to create visually captivating 3D environments. Through hands-on assignments, students apply theoretical knowledge and build a portfolio of projects. The course is ideal for aspiring professionals in gaming, virtual reality, and computer-aided design, providing them with the necessary skills to explore the possibilities of 3D graphic modeling.
+# Lab8 - Shadow Mapping
+
+Welcome to the "Lab8 - Shadow Mapping"! This repository is designed to help you learn about shadow mapping techniques in OpenGL using C++ and Visual Studio 2022. 
 
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
+## About OpenGL
 
-## Configure Visual Studio 2022 for Graphic Modeling Systems with C++
+OpenGL (Open Graphics Library) is a powerful and widely-used cross-platform API (Application Programming Interface) for rendering 2D and 3D computer graphics. It provides developers with a set of functions and capabilities to interact with the GPU (Graphics Processing Unit) and create stunning visuals for various applications, including games, simulations, and scientific visualization.
+
+You can find more: [here](%5Bhttps://www.opengl.org/%5D(https://www.opengl.org/))
+
+## About Shadow Mapping in OpenGL
+
+Shadow mapping is a widely used technique in computer graphics to simulate realistic shadows in 3D scenes. It involves the generation and rendering of a depth map from the perspective of a light source, capturing the distance from the light to each visible point in the scene. By comparing this depth map with the depth of each fragment during the final rendering pass, shadows can be accurately determined and applied to the scene. Shadow mapping allows for the creation of dynamic and interactive shadows, enhancing the visual realism and depth perception of virtual environments in OpenGL.
+
+## Laboratory Overview
+
+In this folder, you will find a collection of code samples and projects that cover various aspects of working with shadow mapping in OpenGL.
+
+You can find more: [Laborator 8 - Shadow Mapping](https://docs.google.com/document/d/1_pXNPZqsRKkLRvJKFlN2cLpWnO3oukG5UwYqyNJu3T4/edit)
+
+## Texture Attribution
+
+Here are the links to the websites where you can find more textures:
+
+1. Texture 1: [Link to floor texture]([Textures for 3D, graphic design and Photoshop!](https://www.textures.com/download/3DScans0128/132311?seamless=130316))
+
+2. Freepik: [here](https://www.freepik.com/)
+
+3. Textures.com: [here](https://www.textures.com/)
+
+## Getting Started for Visual Studio 2022
 
 <ol>
+  <li><strong>Ensure you have Visual Studio 2022 installed on your system, </strong>as it provides an excellent development environment for C++ and OpenGL.</li>
   <li><strong>Download GLEW library:</strong> <a href="https://glew.sourceforge.net/">Download GLEW here</a></li>
   <li><strong>Download FreeGLUT library:</strong> <a href="https://freeglut.sourceforge.net/">Download FreeGLUT here</a></li>
   <li><strong>Download GLM library:</strong> <a href="https://glm.g-truc.net/0.9.9/index.html">Download GLM here</a></li>
   <li><strong>Download GLFW library:</strong> <a href="https://www.glfw.org/">Download GLFW here</a></li>
+  <li><strong>Download STB image libraries:</strong> <a href="https://github.com/nothings/stb">Download STB image libraries here</a></li>  
   <li><strong>Create a Windows Console C++ Project in VS 2022</strong></li>
   <li><strong>Make an "External" directory:</strong> inside the folder that contains the .sln file create a new directory with the name "External"</li>
   <li><strong>Move the downloaded libraries in External directory:</strong> move unzipped folders to the "External" directory created in the previous step</li>
@@ -25,21 +53,29 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
   </li>
 </ol>
 
-<i>You will need to do steps from 3 to 8 for every project you start.<i>
+## Command Workflow Showcase
 
-## Laboratories
+It is required to build a 3D application in openGL, to create the Phong model of light with the components: ambient, diffuse and specular and to map the shadows. Change the code as follows:
 
-|Laboratory|Subject|Options|External Libraries|
-|----------|-------|-------|------------------|
-|[Lab1](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab1)|Points|OpenGL fixed pipe / shaders|GLEW , FreeGlut|
-|[Lab2](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab2)|Triangle|DirectX 9 / DirectX 11||
-|[Lab3](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab3)|Uniform Variables|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab4](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab4)|Projections and Primitive Indexing|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab5](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab5)|Interactive Room|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab6](#)|Textures|OpenGL shaders|GLEW , FreeGlut, GLM|
-|[Lab7](#)|Light|OpenGL shaders||
-|[Lab8](#)|Shadow Mapping|OpenGL shaders||
+1. Let the light rotate in a circle with a radius of 2.0 in the xOz plane. When pressing the "L" key, the light rotates and when pressing the "S" key, the light stops rotating.
 
+2. Display another 3 cubes in the renderScene method with various positions and orientations.
+
+3. To solve the problem of acne using a hardcoded bias.
+
+4. To eliminate the artifacts outside the frustrum of the light source.
+
+5. Increase the texture size from 1024X1024 to 4096X4096.
+
+6. Calculate a bias according to the direction of the camera and the normal.
+
+7. Reduce the size of the shadow to 1024X1024 and make a PCF (Percentage-Closer Filter) filter.
+
+| Floor                       | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/mud.gif?raw=true)          |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tuft of Grass**           | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass.gif?raw=true)        |
+| **Tufts of Grass Network**  | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/net-of-grass.gif?raw=true) |
+| **Tuft of Grass & Flower*** | ![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_II/SMM%20-%20Modern%203D%20Graphic%20Modeling%20Systems/Labs/Lab9/resources/grass&flower.gif?raw=true) |
 
 </br>
 </br>
