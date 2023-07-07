@@ -23,4 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 
 <br>
 
-<sub>I learned to make these application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>
+<sub>I learned to make this application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>
