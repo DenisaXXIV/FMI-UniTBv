@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Overview
+
+![](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Courses/Udemy/FlutterDart-TheCompleteGuide/resources/personal_expenses_app.gif?raw=true)
+
+<br>
+
+<br>
+
+<sub>I learned to make these application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>

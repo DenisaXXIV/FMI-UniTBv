@@ -20,12 +20,20 @@ You can build apps with Flutter using any text editor combined with our command-
   <h1>Projects</h1>
 </div>
 
-<details>
-<summary>Quiz App</summary>
+- [Roll Dice App](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide/roll_dice_app)
 
-<img src="https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide/resources/Layer%201.png" height="500"/><img src="https://github.com/DenisaXXIV/Tic-Tac-Toe/blob/master/src/to.png" height="500px"><img src="https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide/resources/Layer%202.png" height="500"/><img src="https://github.com/DenisaXXIV/Tic-Tac-Toe/blob/master/src/to.png" height="500px"><img src="https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/master/Courses/Udemy/Flutter%20%26%20Dart%20-%20The%20Complete%20Guide/resources/Layer%203.png" height="500"/>
+- [Quiz App](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide/my_quiz_app)
 
-</details>
+- [Personal Expenses App](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide/personal_expenses_app)
 
-<sub>I learned to make this application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>
+- Meals App
 
+- Shopping List App
+
+- Favorite Places App
+
+<br>
+
+<br>
+
+<sub>I learned to make these application following the tutorials on [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)</sub>
