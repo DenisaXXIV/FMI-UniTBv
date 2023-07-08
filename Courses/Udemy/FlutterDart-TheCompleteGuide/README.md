@@ -26,6 +26,8 @@ You can build apps with Flutter using any text editor combined with our command-
 
 - [Personal Expenses App](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide/personal_expenses_app)
 
+- [To Do App](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide/to_do_app)
+
 - Meals App
 
 - Shopping List App
