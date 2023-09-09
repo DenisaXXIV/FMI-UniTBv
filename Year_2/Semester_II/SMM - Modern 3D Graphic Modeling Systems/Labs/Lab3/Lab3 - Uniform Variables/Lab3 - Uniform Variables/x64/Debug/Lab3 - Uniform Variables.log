@@ -1,2 +1,3 @@
 ﻿  Lab3 - Uniform Variables.cpp
-  Lab3 - Uniform Variables.vcxproj -> D:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab3\Lab3 - Uniform Variables\x64\Debug\Lab3 - Uniform Variables.exe
+  LINK : E:\Proiecte\FMI-UniTBv\Year_2\Semester_II\SMM - Modern 3D Graphic Modeling Systems\Labs\Lab3\Lab3 - Uniform Variables\x64\Debug\Lab3 - Uniform Variables.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
