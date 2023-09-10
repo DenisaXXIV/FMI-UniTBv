@@ -97,6 +97,7 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 14       | Angular Essentials                                                                                                                     | Angular, TypeScript                     | [here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)                          | 2023               |
 | 15       | PostgreSQL Bootcamp                                                                                                                    | PostgreSQL, SQL                         | [here](https://www.udemy.com/course/postgresqlmasterclass/)                                                           | 2023               |
 | 16       | [Flutter & Dart - The Complete Guide](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide) | Flutter, Dart                           | [here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)                                    | in progress...     |
+| 17       | [Realistic Environment Design](https://github.com/DenisaXXIV/Landscape)                                                                | Unreal Engine 5                         | [here](https://www.udemy.com/course/unreal-engine-5-outdoor-level-design/)                                              | in progress...     |
 
 <!--- 
 10|Git|[here](#)|2023|
