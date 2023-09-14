@@ -12,9 +12,9 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | II       |[Parallel, Concurrent and Distributed Programming](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_3/Semester_II/PPCD%20-%20Parallel%2C%20Concurent%20and%20Distributed%20Programmming)| PPCD | C | 2 | - | 2 | - |  85  | E | 5 |
 | II       |[Probabilities and Statistics for Autonomous Systems](#)| PSSA | Math | 2 | 1 | 1 | - |  85  | E | 5 |
 | II       |Practice for the Development of the Bachelor's Thesis| ? || - | - | - | 6 |  65  | C | 5 |
-| II       |[Programming Mobile Applications](#)| PAM | Kotlin/Java | 2 | - | 2 | - |  85  | C | 5 |
-| II       |[Modeling and Simulation of Dynamic Systems in MATLAB and Simulink](#)| MSSD | MATLAB| 2 | - | 2 | - |  85  | C | 5 |
-| II       |[Pedagogy](#) |DS|-| 1 | 1 | - | - |  -  | - | 5 |
+| II       |Programming Mobile Applications| PAM | Kotlin/Java | 2 | - | 2 | - |  85  | C | 5 |
+| II       |[Modeling and Simulation of Dynamic Systems in MATLAB and Simulink](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_3/Semester_II/MSSD%20-%20Modeling%20and%20Simulation%20of%20Dynamic%20Systems%20in%20MATLAB%20and%20SIMULINK)| MSSD | MATLAB| 2 | - | 2 | - |  85  | C | 5 |
+| II       |Pedagogy |DS|-| 1 | 1 | - | - |  -  | - | 5 |
 
 I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
 
