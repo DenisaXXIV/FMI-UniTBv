@@ -96,11 +96,12 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 13       | Git & GitHub                                                                                                                           | Git, GitHub                             | [here](https://www.udemy.com/course/git-github-practical-guide/)                                                      | 2023               |
 | 14       | Angular Essentials                                                                                                                     | Angular, TypeScript                     | [here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)                          | 2023               |
 | 15       | PostgreSQL Bootcamp                                                                                                                    | PostgreSQL, SQL                         | [here](https://www.udemy.com/course/postgresqlmasterclass/)                                                           | 2023               |
-| 16       | [Flutter & Dart - The Complete Guide](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide) | Flutter, Dart                           | [here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)                                    | in progress...     |
-| 17       | [Realistic Environment Design](https://github.com/DenisaXXIV/Landscape)                                                                | Unreal Engine 5                         | [here](https://www.udemy.com/course/unreal-engine-5-outdoor-level-design/)                                              | in progress...     |
+| 16       | [Docker Mastery](#)                                                                | Doker, Kubernetes, Swarm, Actions CI, YAML, Docker Compose                         | [here](https://www.udemy.com/course/docker-mastery/)                                              | in progress...     |
 
 <!--- 
-10|Git|[here](#)|2023|
+
+| 17       | [Flutter & Dart - The Complete Guide](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Courses/Udemy/FlutterDart-TheCompleteGuide) | Flutter, Dart                           | [here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)                                    | in progress...     |
+| 18       | [Realistic Environment Design](https://github.com/DenisaXXIV/Landscape)                                                                | Unreal Engine 5                         | [here](https://www.udemy.com/course/unreal-engine-5-outdoor-level-design/)                                              | in progress...     |
 
 --->
 
