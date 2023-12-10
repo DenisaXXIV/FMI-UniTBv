@@ -96,7 +96,8 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 13       | Git & GitHub                                                                                                                           | Git, GitHub                             | [here](https://www.udemy.com/course/git-github-practical-guide/)                                                      | 2023               |
 | 14       | Angular Essentials                                                                                                                     | Angular, TypeScript                     | [here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)                          | 2023               |
 | 15       | PostgreSQL Bootcamp                                                                                                                    | PostgreSQL, SQL                         | [here](https://www.udemy.com/course/postgresqlmasterclass/)                                                           | 2023               |
-| 16       | [Docker Mastery](#)                                                                | Doker, Kubernetes, Swarm, Actions CI, YAML, Docker Compose                         | [here](https://www.udemy.com/course/docker-mastery/)                                              | in progress...     |
+| 16       | Docker Mastery                                                                | Doker, Kubernetes, Swarm, Actions CI, YAML, Docker Compose                         | [here](https://www.udemy.com/course/docker-mastery/)                                              | 2023     |
+| 17       | SignalR - The Complete Guide                                                                | SignalR                         | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                              | in progress...     |
 
 <!--- 
 
