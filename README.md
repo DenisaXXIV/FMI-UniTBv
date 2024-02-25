@@ -96,8 +96,11 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 13       | Git & GitHub                                                                                                                           | Git, GitHub                             | [here](https://www.udemy.com/course/git-github-practical-guide/)                                                      | 2023               |
 | 14       | Angular Essentials                                                                                                                     | Angular, TypeScript                     | [here](https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/)                          | 2023               |
 | 15       | PostgreSQL Bootcamp                                                                                                                    | PostgreSQL, SQL                         | [here](https://www.udemy.com/course/postgresqlmasterclass/)                                                           | 2023               |
-| 16       | Docker Mastery                                                                | Doker, Kubernetes, Swarm, Actions CI, YAML, Docker Compose                         | [here](https://www.udemy.com/course/docker-mastery/)                                              | 2023     |
-| 17       | SignalR - The Complete Guide                                                                | SignalR                         | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                              | in progress...     |
+| 16       | Docker Mastery     | Doker, Kubernetes, Swarm, Actions CI, YAML, Docker Compose      | [here](https://www.udemy.com/course/docker-mastery/)                                              | 2023     |
+| 17       | Kotlin for Android: Beginner to Advanced | Kotlin, Android | [here](https://www.udemy.com/course/devslopes-android-kotlin/?couponCode=LETSLEARNNOW)                                              | 2024     |
+| 18       | JMeter - Performance and API Testing   | JMeter      | [here](https://www.udemy.com/course/learn-jmeter-m/?couponCode=LETSLEARNNOW)             | 2024     |
+| 19       | Java Swing (GUI) Programming          | Java Swing        | [here](https://www.udemy.com/course/java-swing-complete/?couponCode=LETSLEARNNOW)                                              | 2024     |
+| 20       | SignalR - The Complete Guide                                                                | SignalR                         | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                              | in progress...     |
 
 <!--- 
 
