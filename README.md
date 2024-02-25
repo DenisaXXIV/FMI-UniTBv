@@ -1,6 +1,6 @@
 # Faculty of Mathematics and Computer Science Materials
 
-In this repository you can find all homeworks, projects and resources regarding my studies at the **University Transilvania of Brasov** (**Bachelor in Computer Science**), years: 2020-2024.<br>
+In this repository you can find all homeworks, projects and resources regarding my studies at the **University Transilvania of Brasov** (**Bachelor in Computer Science**), years: 2020-2023.<br>
 You may use these materials as long as you mention the source and the author. <br>
 Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
