@@ -100,7 +100,8 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 17       | Kotlin for Android: Beginner to Advanced | Kotlin, Android | [here](https://www.udemy.com/course/devslopes-android-kotlin/?couponCode=LETSLEARNNOW)                                              | 2024     |
 | 18       | JMeter - Performance and API Testing   | JMeter      | [here](https://www.udemy.com/course/learn-jmeter-m/?couponCode=LETSLEARNNOW)             | 2024     |
 | 19       | Java Swing (GUI) Programming          | Java Swing        | [here](https://www.udemy.com/course/java-swing-complete/?couponCode=LETSLEARNNOW)                                              | 2024     |
-| 20       | SignalR - The Complete Guide                                                                | SignalR                         | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                              | in progress...     |
+| 20       | Agile Course: Agile Project Management & Agile Delivery        | Agile       | [here](https://www.udemy.com/course/agile-crash-course/?couponCode=ST12MT030524)                                              | 2024     |
+| 21       | SignalR - The Complete Guide                                                                | SignalR                         | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                              | in progress...     |
 
 <!--- 
 
