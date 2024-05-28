@@ -1,0 +1,20 @@
+docker container run -d --name nginx nginx
+clear
+cls
+docker container run --publish 80:80 nginx
+docker container run --publish 80:80 --detach nginx
+docker container ls
+docker container stop cf53
+docker container ls
+docker container ls -a
+docker container logs webhost
+docker container run --publish 80:80 --detach --name webhost  nginx
+docker container ls -a
+docker container logs webhost
+docker container top webhost
+docker container ls -a
+docker container rm 30f cf5 83f 210
+docker container ls
+docker container rm -f 30f 210
+docker container ls
+

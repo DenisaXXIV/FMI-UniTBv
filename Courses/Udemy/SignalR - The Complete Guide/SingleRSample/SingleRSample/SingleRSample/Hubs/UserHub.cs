@@ -21,12 +21,14 @@ namespace SingleRSample.Hubs
             return base.OnDisconnectedAsync(exception);
         }
 
-        public async Task NewWindowLoaded()
+        public async Task<string> NewWindowLoaded()
         {
             TotalViews++;
 
             //send update to all clients that total views have been updated
             await Clients.All.SendAsync("updateTotalViews", TotalViews);
+
+            return $"total views - {TotalViews}";
         }
     }
 }

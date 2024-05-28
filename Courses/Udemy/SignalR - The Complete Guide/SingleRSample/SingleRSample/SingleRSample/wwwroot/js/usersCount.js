@@ -1,5 +1,7 @@
 ﻿// create connection
-var connectionUserCount = new signalR.HubConnectionBuilder().withUrl("/hubs/user").build();
+var connectionUserCount = new signalR.HubConnectionBuilder()
+    .configureLogging(signalR.LogLevel.Information)
+    .withUrl("/hubs/user", signalR.HttpTransportType.WebSockets).build();
 
 // connect to methods that hub invokes aka receive notifications from hub
 connectionUserCount.on("updateTotalViews", (value) => {
@@ -14,7 +16,7 @@ connectionUserCount.on("updateTotalUsers", (value) => {
 
 // invoke hub methods aka send notification to hub
 function newWindowLoadedOnClient() {
-    connectionUserCount.send("NewWindowLoaded");
+    connectionUserCount.invoke("NewWindowLoaded").then((value) => console.log(value));
 }
 
 // start connection
