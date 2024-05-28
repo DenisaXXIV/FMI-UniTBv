@@ -31,37 +31,31 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 
 ## III. *Materiale*:
 
-| CAPITOL   | LECTIE                                           | CURS | SEMINAR | REZUMAT | REZOLVARI PROBLEME | REZOLVARI TEORIE |
-| --------- | ------------------------------------------------ | ---- | ------- | ------- | ------------------ | ---------------- |
-| 1         | Corpuri                                          |      |         | [[X]]() |                    |                  |
-| 1         | Spatii masurabile                                |      |         |         |                    |                  |
-| 1         | Functii masurabile                               |      |         |         |                    |                  |
-| 1         | Evenimente independente. Evenimente conditionale |      |         |         |                    |                  |
-| 1         | Scheme clasice de probabilitate                  |      |         |         |                    |                  |
-| 2         | Variabile aleatoare                              |      |         |         |                    |                  |
-| 2         | Functia de repartitie                            |      |         |         |                    |                  |
-| 2         | Variabile aleatoare independente                 |      |         |         |                    |                  |
-| 2         | Variabile aleatoare discrete                     |      |         |         |                    |                  |
-| 2         | Variabile aleatoare continue                     |      |         |         |                    |                  |
-| 2         | Media                                            |      |         |         |                    |                  |
-| 2         | Dispersia                                        |      |         |         |                    |                  |
-| 2         | Corelatia                                        |      |         |         |                    |                  |
-| 2         | Functia caracteristica                           |      |         |         |                    |                  |
-| 3         | Inegalitati fundamentale                         |      |         |         |                    |                  |
-| 3         | Tipuri de convergenta                            |      |         |         |                    |                  |
-| 3         | Legile numerelor mari                            |      |         |         |                    |                  |
-| 3         | Teorema limita centrala                          |      |         |         |                    |                  |
-| 4         | Statistica descriptiva                           |      |         |         |                    |                  |
-| 4         | Statistica esantioanelor Bernoulli               |      |         |         |                    |                  |
-| 4         | Statistici, estimatori                           |      |         |         |                    |                  |
-| 4         | Ipoteze statistice                               |      |         |         |                    |                  |
-| 4         | Teste statistice                                 |      |         |         |                    |                  |
-| 2015      | Model examen                                     |      |         |         |                    |                  |
-| vara 2015 | Examen                                           |      |         |         |                    |                  |
-| vara 2019 | Examen                                           |      |         |         |                    |                  |
-| 2023      | Model examen 1                                   |      |         |         |                    |                  |
-| 2023      | Model examen 2                                   |      |         |         |                    |                  |
-| vara 2023 | Examen                                           |      |         |         |                    |                  |
-| vara 2023 | Restanta                                         |      |         |         |                    |                  |
+| CAPITOL   | LECTIE                                           | CURS | SEMINAR | REZUMAT | 
+| --------- | ------------------------------------------------ | ---- | ------- | ------- | 
+| 1         | Corpuri                                          |[c1]()|[s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar01.pdf), [s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar1.pdf)   |[r1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Rezumate/rezumat01.pdf)   |
+| 1         | Spatii masurabile                                |[c1]()|[s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar01.pdf), [s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar1.pdf)   |[r1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Rezumate/rezumat01.pdf)   |
+| 1         | Functii masurabile                               |[c1](), [c2]()|[s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar01.pdf), [s1](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar1.pdf) |[r2](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Rezumate/rezumat02.pdf)   |
+| 1         | Evenimente independente                          |[c3]()|[s2](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar02.pdf), [s2](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar2.pdf)   |[r3](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Rezumate/rezumat03.pdf)   |
+| 1         | Evenimente conditionale                          |[c4]()|[s2](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar02.pdf), [s2](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar2.pdf)    |[r4](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Rezumate/rezumat04.pdf)   |
+| 1         | Scheme clasice de probabilitate                  |[c4](), [c5]()| |   |
+| 2         | Variabile aleatoare                              |[c6]()|         |   |
+| 2         | Functia de repartitie                            |[c6]()|         |   |
+| 2         | Variabile aleatoare independente                 |      |[s7](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar7.pdf)   |   |
+| 2         | Variabile aleatoare discrete                     |      |[s3](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/213/seminar03.pdf), [s3](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar3.pdf), [s7](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar7.pdf)   |   |
+| 2         | Variabile aleatoare continue                     |      |[s4](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar4.pdf), [s7](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar7.pdf)   |  |
+| 2         | Media                                            |      |[s4](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar4.pdf)   |  |
+| 2         | Dispersia                                        |      |[s4](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar4.pdf)   |         |                
+| 2         | Corelatia                                        |      |         |         |               
+| 2         | Functia caracteristica                           |      |[s5](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar5.pdf)   |         |             
+| 3         | Inegalitati fundamentale                         |      |[s6](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_II/PSSA%20-%20Probabilities%20and%20Statistics%20for%20Autonomous%20Systems/Seminarii/212/seminar6.pdf)   |         |           
+| 3         | Tipuri de convergenta                            |      |         |         |                
+| 3         | Legile numerelor mari                            |      |         |         |              
+| 3         | Teorema limita centrala                          |      |         |         |             
+| 4         | Statistica descriptiva                           |      |         |         |               
+| 4         | Statistica esantioanelor Bernoulli               |      |         |         |         
+| 4         | Statistici, estimatori                           |      |         |         |            
+| 4         | Ipoteze statistice                               |      |         |         |                   
+| 4         | Teste statistice                                 |      |         |         |             
 
 I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).
