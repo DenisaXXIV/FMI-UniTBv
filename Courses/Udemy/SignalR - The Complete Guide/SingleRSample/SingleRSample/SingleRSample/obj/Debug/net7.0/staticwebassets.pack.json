@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\advanceChat.js",
+      "PackagePath": "staticwebassets\\js\\advanceChat.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\advanceChatHelper.js",
+      "PackagePath": "staticwebassets\\js\\advanceChatHelper.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\basicchat.js",
+      "PackagePath": "staticwebassets\\js\\basicchat.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\deathlyHallows.js",
+      "PackagePath": "staticwebassets\\js\\deathlyHallows.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\houseGroup.js",
+      "PackagePath": "staticwebassets\\js\\houseGroup.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
+      "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "E:\\Proiecte\\FMI-UniTBv\\Courses\\Udemy\\SignalR - The Complete Guide\\SingleRSample\\SingleRSample\\SingleRSample\\wwwroot\\js\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr.js"
     },

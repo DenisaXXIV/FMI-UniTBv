@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SingleRSample.Models;
 
 namespace SingleRSample.Data
 {
@@ -9,5 +10,9 @@ namespace SingleRSample.Data
             : base(options)
         {
         }
+
+        public DbSet<Order> Orders { get; set; }
+
+        public DbSet<ChatRoom> ChatRoom { get; set; }
     }
 }
