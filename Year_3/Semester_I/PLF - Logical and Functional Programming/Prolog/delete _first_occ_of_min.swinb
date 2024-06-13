@@ -1,0 +1,45 @@
+<div class="notebook">
+
+<div class="nb-cell html" name="htm1">
+<h1 align="center">Delete</h1>
+  <h3>1. Delete the first occurrence of the minimum</h3>
+</div>
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+minimum([H|T]) = { x &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   , daca L = {x}
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    { minimum(T,H) , daca H &lt; R
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     { minimum(T,R) , daca H &gt;= R
+```
+</div>
+
+<div class="nb-cell markdown" name="md2">
+```Mathematical
+delete_first_occ(L) = { [] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               , daca L = []
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         { delete_first_occ(L,H,T)   , daca H == Min
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          { delete_first_occ(T,Min,R) , altfel punem H in R
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+minim([R], R).
+minim([H|T], R) :-
+    minim(T, R),
+    H &gt;= R.
+minim([H|T], R) :-
+    minim(T, R1),
+    H &lt; R1,
+    R is H.
+
+delete_first_occ([], _, []).
+delete_first_occ([H|T], H, T) :- !. 
+delete_first_occ([H|T], E, [H|R]) :-
+    delete_first_occ(T, E, R).
+
+main(L) :-
+    minim(L,Min),
+    delete_first_occ(L, Min, R),
+    writeln(R).
+</div>
+
+</div>

@@ -1,0 +1,41 @@
+<div class="notebook">
+
+<div class="nb-cell html" name="htm1">
+<h1 align="center">Delete</h1>
+  <h3>2. Delete the repeating elements.</h3>
+</div>
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+member(val,L) = { nimic                   , daca val = l1
+                { member(val,l2l3,...,ln) , altfel
+```
+</div>
+
+<div class="nb-cell markdown" name="md2">
+```Mathematical
+delete_repeats(L,Vazut,R) = { [] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                         , daca L = [] 
+                            { l1 U Vazut                          , daca l1 ⊄ Vazut
+                            { delete_repeats(l2,l3...,ln,Vazut,R) , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+member(X, [X|_]).
+member(X, [_|T]) :- 
+    member(X, T).
+
+delete_repeats([], _, []).  
+delete_repeats([H|T], Seen, [H|R]) :- 
+    \+ member(H, Seen),
+    delete_repeats(T, [H|Seen], R).
+delete_repeats([H|T], Seen, R) :-  
+    member(H, Seen),
+    delete_repeats(T, Seen, R).
+
+main(L) :-
+    delete_repeats(L,[],R),
+    writeln(R).
+</div>
+
+</div>

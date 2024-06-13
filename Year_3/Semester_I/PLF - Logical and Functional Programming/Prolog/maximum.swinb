@@ -1,0 +1,28 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+maximum(L) = { x	     , daca L = {x} 
+
+maximum(L) = { R = x   	 , daca L= [x|Tail] si x&gt;R 
+             
+maximum(L) = { nimic	 , daca L= [x|Tail] si x&lt;R  
+                                                  
+                                                   
+</div>
+
+<div class="nb-cell program" name="p1">
+maximum([R], R).
+maximum([H|T], R) :-
+    maximum(T, R),
+    R &gt;= H.
+maximum([H|T], R) :-
+    maximum(T, R1),
+    H &gt; R1,
+    R is H.
+
+main(L,R) :-
+    maximum(L,R),
+    writeln(R).
+</div>
+
+</div>

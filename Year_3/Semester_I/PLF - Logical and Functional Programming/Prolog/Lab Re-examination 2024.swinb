@@ -1,0 +1,56 @@
+<div class="notebook">
+
+<div class="nb-cell html" name="htm1">
+<h1 align="center">Lab Re-examination</h1>
+  <h3>1. Define a predicate that determines the difference of two numbers written in the 
+    list representation, without converting the list to a number. 
+    <br>
+    <br>
+    E.g:[1,2,3] - [1,1,1] = [0,1,3]</h3>
+<br>
+</div>
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+sum_lists(A,B,R) = { a1-b1 &nbsp;&nbsp;&nbsp;&nbsp;, daca A = [a1]  si B = [b1]
+                   { an-bn U R , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+sum_lists([X],[Y],[Z]):-
+    X&gt;Y,
+    Z is X-Y.
+
+sum_lists([X],[Y],[Z]):-
+    X=&lt;Y,
+    Z is Y-X.
+	
+sum_lists([H1|T1],[H2|T2],[S|R]):-
+    H1&gt;=H2,
+    S is H1-H2,
+    sum_lists(T1,T2,R).
+
+sum_lists([H1|T1],[H2|T2],[S|R]):-
+    H1&lt;H2,
+    S is H2-H1,
+    sum_lists(T1,T2,R).
+
+main(L1,L2):-
+    sum_lists(L1,L2,R),
+    writeln(R).
+</div>
+
+<div class="nb-cell html" name="htm2">
+<h3>2. Given a linear numeric list, delete all sequences of consecutive values.
+    <br>
+    <br>
+    E.g:  [1, 2, 4, 6, 7, 8, 10] -&gt; [4, 10]</h3>
+<br>
+</div>
+
+<div class="nb-cell program" name="p2">
+
+</div>
+
+</div>

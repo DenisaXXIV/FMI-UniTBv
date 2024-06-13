@@ -1,0 +1,24 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+factorial(M) ═ {1 , M = 0
+               {M + factorial( M - 1 ) , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+fact(0,1).
+
+fact(N,R) :-
+    N &gt; 0,
+    N1 is N-1,
+    fact(N1,R1),
+    R is N * R1.
+
+main(N) :-
+    fact(N,R),
+    writeln(R).
+</div>
+
+</div>

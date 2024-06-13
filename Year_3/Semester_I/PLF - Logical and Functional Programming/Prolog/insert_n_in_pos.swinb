@@ -1,0 +1,34 @@
+<div class="notebook">
+
+<div class="nb-cell html" name="htm1">
+<h1 align="center">Insert</h1>
+  <h3>10. Add n from m to m positions.</h3>
+</div>
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+insert(n,m,L) = { []                         , daca L=[]
+                { insert(n,m,l1,l2,n,...,ln) , altfel
+                { nimic                      , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+insert_n_at_m_positions(_, _, [], _, []).  
+
+insert_n_at_m_positions(N, M, [H|T], Pos, [H, N|R]) :-
+    Pos mod M =:= 0, 
+    NextPos is Pos + 1,
+    insert_n_at_m_positions(N, M, T, NextPos, R).
+
+insert_n_at_m_positions(N, M, [H|T], Pos, [H|R]) :-
+    Pos mod M =\= 0,  
+    NextPos is Pos + 1,
+    insert_n_at_m_positions(N, M, T, NextPos, R).
+
+main(N, M, List) :-
+    insert_n_at_m_positions(N, M, List, 1, Result),
+    writeln(Result).
+</div>
+
+</div>

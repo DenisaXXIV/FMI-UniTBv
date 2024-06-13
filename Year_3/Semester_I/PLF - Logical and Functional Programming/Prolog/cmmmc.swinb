@@ -1,0 +1,27 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+cmmmc(M,N,CURR) ═ {CURR = max(M,N) , max(M,N) % N = 0
+                  {cmmmc(M, N, CURR + A ) , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+cmmmc(_,N,CURR,LCM) :- 
+    Y is CURR mod N,
+    Y =:= 0,
+    LCM is CURR.
+    
+cmmmc(M,N,CURR,LCM) :-
+    Y is CURR mod N,
+    Y =\= 0,
+    Z is CURR + M,
+    cmmmc(M,N,Z,LCM).
+
+main(M,N) :-
+    cmmmc(M,N,max(M,N),LCM),
+    writeln(LCM).
+</div>
+
+</div>

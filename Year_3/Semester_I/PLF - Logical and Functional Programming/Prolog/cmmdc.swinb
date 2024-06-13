@@ -1,0 +1,44 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+cmmdc(M,N,CMMDC) ═ {M	                	, M=N &lt;br&gt;
+cmmdc(M,N,CMMDC) ═ {cmmdc(M,N-M,cmmdc) 		, N&gt;M  &lt;br&gt;
+cmmdc(M,N,CMMDC) ═ {cmmdc(M-N,N,cmmdc) 		, altfel  &lt;br&gt;
+</div>
+
+<div class="nb-cell program" name="p2">
+cmmdc(M, N, CMMDC) :-
+    N =:= 0,
+    CMMDC is M.
+    
+cmmdc(M, N, CMMDC) :-
+    N =\= M,
+    Y is M mod N,
+    cmmdc(N, Y, CMMDC).
+
+main(M,N) :-
+    cmmdc(M,N,CMMDC),
+    writeln(CMMDC).
+</div>
+
+<div class="nb-cell program" name="p1">
+cmmdc2(M, N, CMMDC) :-
+    M =:= N,
+    CMMDC is M.
+
+cmmdc2(M, N, CMMDC) :-
+    N&gt;M,
+    Y is N-M,
+    cmmdc2(M, Y, CMMDC).
+    
+cmmdc2(M, N, CMMDC) :-
+    N&lt;M,
+    Y is M-N,
+    cmmdc2(Y, N, CMMDC).
+
+main2(M,N) :-
+    cmmdc2(M,N,CMMDC),
+    writeln(CMMDC).
+</div>
+
+</div>

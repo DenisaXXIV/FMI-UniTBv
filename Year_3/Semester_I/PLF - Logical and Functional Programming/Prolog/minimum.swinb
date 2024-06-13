@@ -1,0 +1,24 @@
+<div class="notebook">
+
+<div class="nb-cell markdown" name="md1">
+minim(L) = { x	 , daca L = {x} &lt;br&gt;
+	  { R = x   	 , daca L= [x|Tail] si x&lt;R &lt;br&gt;
+	 { nimic	, daca L= [x|Tail] si x&gt;R  &lt;br&gt;
+</div>
+
+<div class="nb-cell program" name="p1">
+minim([R], R).
+minim([H|T], R) :-
+    minim(T, R),
+    R =&lt; H.
+minim([H|T], R) :-
+    minim(T, R1),
+    H &lt; R1,
+    R is H.
+
+main(L,R) :-
+    minim(L,R),
+    writeln(R).
+</div>
+
+</div>

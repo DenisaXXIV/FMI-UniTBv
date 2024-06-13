@@ -1,0 +1,48 @@
+<div class="notebook">
+
+<div class="nb-cell html" name="htm1">
+<h1 align="center">Delete</h1>
+  <h3>2. Delete all occurrences of the maximum</h3>
+</div>
+
+<div class="nb-cell markdown" name="md1">
+```Mathematical
+maximum([H|T]) = { x &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   , daca L = {x}  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                 { maximum(T,H) , daca H &gt; R  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                 { maximum(T,R) , daca H =&lt; R
+```
+</div>
+
+<div class="nb-cell markdown" name="md2">
+```Mathematical
+delete_all_occ([H|T],E,R) = { [] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                          , daca L = [] 
+                            { delete_all_occ(l1,val) U delete_all_occ(l2...ln,val) , daca l1 =lista
+                            { delete_all_occ(l2...ln,val)                          , daca l1 =val
+                            { l1 U delete_all_occ(l2....ln,val)                    , altfel
+```
+</div>
+
+<div class="nb-cell program" name="p1">
+maxim([R], R).
+maxim([H|T], R) :-
+    maxim(T, R),
+    H =&lt; R.
+maxim([H|T], R) :-
+    maxim(T, R1),
+    H &gt; R1,
+    R is H.
+
+delete_all_occ([],_,[]).
+delete_all_occ([H|T],H,R):- 
+    delete_all_occ(T,H,R).
+delete_all_occ([H|T],X,[H|R]):-
+    delete_all_occ(T,X,R).
+
+main(L) :-
+    maxim(L,R1), 
+    delete_all_occ(L,R1,R),
+    writeln(R).
+    
+</div>
+
+</div>
