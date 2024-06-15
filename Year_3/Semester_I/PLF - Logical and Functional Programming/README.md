@@ -6,6 +6,10 @@
   <p>Procedural programming is intuitive in the sense that it is very similar to how you would expect a program to work. If you want a computer to do something, you should provide step-by-step instructions on how to do it. Many of the early programming languages are all procedural. Examples of procedural languages include Fortran, COBOL and C, which have been around since the 1960s and 70s.</p>
   <p>A common technique in procedural programming is to repeat a series of steps using iteration. This means you write a series of steps and then tell the program to repeat these steps a certain number of times. This makes it possible to automate repetitive tasks. </p>
 
+  If you don't know how to use the tools to compile Prolog or LISP, you can find here useful informations: [Swish](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/How%20to%20use%20SWISH%20-%20SWI-Prolog.pdf) & [LispWorks](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/How%20to%20use%20LispWorks.pdf). 
+  
+  Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
+
 ## I. Algorithms
 
 | No. | Algorithm                                                       | Prolog File | Lisp File |
