@@ -11,18 +11,18 @@
 | No. | Algorithm                                                       | Prolog File | Lisp File |
 |:---:| --------------------------------------------------------------- |:-----------:|:---------:|
 |     | **Fundamental**                                                 |             |           |
-| 1   | Minimum                                                         | [x](#)      | [x](#)    |
-| 2   | Maximum                                                         | [x](#)      | [x](#)    |
-| 3   | Greatest Common Divisor                                         | [x](#)      | [x](#)    |
-| 4   | Least Common Multiple                                           | [x](#)      | [x](#)    |
-| 5   | Factorial of a number                                           | [x](#)      | [x](#)    |
+| 1   | Minimum                                                         | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/minimum.swinb)                                                                                                        | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/minium.LISP)    |
+| 2   | Maximum                                                         | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/maximum.swinb)                                                                                                        | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/maximum.LISP)    |
+| 3   | Greatest Common Divisor                                         | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/cmmdc.swinb)                                                                                                          | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/cmmdc.LISP)    |
+| 4   | Least Common Multiple                                           | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/cmmmc.swinb)                                                                                                          | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/cmmmc.LISP)    |
+| 5   | Factorial of a number                                           | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/factorial.swinb)                                                                                                      | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/factorial.LISP)    |
 |     | **Delete**                                                      |             |           |
-| 6   | Delete the first occurrence of the minimum                      | [x](#)      | [x](#)    |
-| 7   | Delete all occurrences of the maximum                           | [x](#)      | [x](#)    |
-| 8   | Delete all occurrences of n                                     | [x](#)      | [x](#)    |
-| 9   | Delete the repeating elements                                   | [x](#)      | [x](#)    |
+| 6   | Delete the first occurrence of the minimum                      | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/delete%20_first_occ_of_min.swinb)                                                                                     | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/delete%20_first_occ_of_min.LISP)    |
+| 7   | Delete all occurrences of the maximum                           | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/delete_all_occ_of_max.swinb)                                                                                          | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/delete_all.LISP)    |
+| 8   | Delete all occurrences of n                                     | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/delete_all_occ.swinb)                                                                                                 | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/delete_all_n.LISP)    |
+| 9   | Delete the repeating elements                                   | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/delete_repeated.swinb)                                                                                                | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/delete_repeated.LISP)    |
 |     | **Insert**                                                      |             |           |
-| 10  | Add n from m to m positions                                     | [x](#)      | [x](#)    |
+| 10  | Add n from m to m positions                                     | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/insert_n_in_pos.swinb)                                                                                                | [x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Lisp/insert_n_in_pos.LISP)    |
 | 11  | Add to the powers of 2 positions                                |             |           |
 |     | **Create**                                                      |             |           |
 | 12  | Creating a list of pairs consisting of [atom, atom_occurrences] |             |           |
@@ -41,7 +41,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-03-24-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-03-11-18-45-image.png" title="" alt="" width="678"> |
+   | ![]() | <img src="" title="" alt="" width="678"> |
    
    ```Prolog
    minim([R], R).
@@ -82,7 +82,7 @@
    
    | Prolog                                                                             | Lisp                                                                               |
    | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-51-45-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-51-33-image.png) |
+   | ![]() | ![]() |
    
    ```Prolog
    maximum([R], R).
@@ -122,7 +122,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-12-42-28-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-03-12-42-07-image.png" title="" alt="" width="409"> |
+   | ![]() | <img src="" title="" alt="" width="409"> |
    
    ```Prolog
    cmmdc(M, N, CMMDC) :-
@@ -158,7 +158,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-13-49-49-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-03-13-09-00-image.png" title="" alt="" width="570"> |
+   | ![]() | <img src="" title="" alt="" width="570"> |
    
    ```Prolog
    cmmmc(_,N,CURR,LCM) :- 
@@ -196,7 +196,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-14-16-17-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-03-14-40-31-image.png" title="" alt="" width="386"> |
+   | ![]() | <img src="" title="" alt="" width="386"> |
    
    ```Prolog
    fact(0,1).
@@ -233,7 +233,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-05-16-40-30-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-05-20-28-53-image.png" title="" alt="" width="454"> |
+   | ![]() | <img src="" title="" alt="" width="454"> |
    
    ```Prolog
    delete_first_occ([], _, []).
@@ -272,7 +272,7 @@
    
    | Prolog                                                                             | Lisp                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-05-23-04-39-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-05-23-23-50-image.png" title="" alt="" width="383"> |
+   | ![]() | <img src="" title="" alt="" width="383"> |
    
    ```Prolog
    delete_all_occ([],_,[]).
@@ -312,7 +312,7 @@
    
    | Prolog                                                                             | Lisp                                                                               |
    | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-19-19-52-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-19-19-34-image.png) |
+   | ![]() | ![]() |
    
    ```Prolog
    delete_all_occ([],_,[]).
@@ -353,7 +353,7 @@
    
    | Prolog                                                                             | Lisp                                                                               |
    | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-19-39-52-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-19-44-14-image.png) |
+   | ![]() | ![]() |
    
    ```Prolog
    member(X, [X|_]).
@@ -407,7 +407,7 @@
     
     | Prolog                                                                             | Lisp                                                                               |
     | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-    | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-20-04-19-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-07-20-14-20-image.png) |
+    | ![]() | ![]() |
     
     ```Prolog
     insert_n_at_m_positions(_, _, [], _, []).  
@@ -452,7 +452,7 @@
 |     | **Lab Re-examination** |             |           |
 | 4   | winter 2023            |             |           |
 | 5   | winter 2024            |             |           |
-| 6   | summer 2024            |             |           |
+| 6   | summer 2024            |[x](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Prolog/Lab%20Re-examination%202024.swinb)                                                                                     |           |
 |     | **Examination**        |             |           |
 | 7   | 2023 - no. 1           |             |           |
 | 8   | 2023 - no. 2           |             |           |
@@ -471,7 +471,7 @@
    | Mathematical model                                                                 | Prolog                                                                             |
    | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
    | main([5,2,9,9,1]) -> 9                                                             | (main '(9 2 3 5)) -> 9                                                             |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-35-08-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-51-33-image.png) |
+   | ![]() | ![]() |
 
 2. Calculate the sum of the numbers from a given list. main([23, 1, 2, 3]) -> 29
    
@@ -625,7 +625,7 @@
    | Prolog                                                                                                                                                               |
    | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | [3, 4, 5] - [1, 1, 1] -> [2 3 4]                                                                                                                                     |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-44-51-image.png)![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-45-04-image.png) |
+   | ![]()![]() |
 2. **PROLOG:** Given a linear numeric list, delete all sequences of consecutive values.
    
    ```Mathematical
@@ -640,7 +640,7 @@
    | Prolog                                                                             |
    | ---------------------------------------------------------------------------------- |
    | [1, 2, 4, 6, 7, 8, 10] -> [4, 10]                                                  |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-47-15-image.png) |
+   | ![]() |
 3. **PROLOG:** Given a list of integers, generate the list of subsets of the list.
    
    ```Mathematical
@@ -668,7 +668,7 @@
    | LISP                                                                               |
    | ---------------------------------------------------------------------------------- |
    | (A 2 B 3 C D 1) --> ((A B) (A C) (A D) (B C) (B D) (C D))                          |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-52-47-image.png) |
+   | ![]() |
    
    
 5. **LISP:** Write a function that inserts a given element in all positions in a linear list and returns a list of lists.
@@ -707,7 +707,7 @@
    | Prolog                                                                             | LISP                                                                                                                          |
    | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
    | main([9, 2, 3]) -> 2                                                               | (main '(9 2 3)) -> '2                                                                                                         |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-03-24-image.png) | <img src="file:///C:/Users/Denisa/AppData/Roaming/marktext/images/2024-06-03-11-18-45-image.png" title="" alt="" width="678"> |
+   | ![]() | <img src="" title="" alt="" width="678"> |
 
 2. **nr1:** A list of integers is given. To replace the elements on the even positions with the difference between their value and the minimum value of the list.
    
@@ -734,7 +734,7 @@
    | Prolog                                                                             | LISP                                                                               |
    | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
    | main([9, 2, 3, 5]) -> 9                                                            | (main '(9 2 3 5)) -> 9                                                             |
-   | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-10-19-35-08-image.png) | ![](C:\Users\Denisa\AppData\Roaming\marktext\images\2024-06-03-11-51-33-image.png) |
+   | ![]() | ![]() |
 2. Insert the maximum of a linear list after each multiple of 3 position.
    
    | Prolog | LISP |
@@ -745,7 +745,7 @@
 
 ### 1)  Java
 
-#### a) Homework 1 : Recursion
+#### a) [Homework 1 : Recursion](https://github.com/DenisaXXIV/FMI-UniTBv/tree/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Tema1)
 
 *    Ex.6 
   
@@ -757,13 +757,13 @@
 
     Prolog is a logic programming language associated with artificial intelligence and     computational linguistics.
 
-#### a) Homework 2 : Lists in Prolog
+#### a) [Homework 2 : Lists in Prolog](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Tema2_1%263.pl)
 
 * Ex.1 - Write a predicate that calculates the c.m.m.d.c. between the minimum and maximum elements of a list.
 * Ex.3 - Write a predicate that deletes the first occurrence of the minimum from a list.
 * Ex.8 - Write a predicate that transforms a list into one of the form: [(element, element_occurrences)].
 
-#### b) Homework 3 : Lists in Prolog
+#### b) [Homework 3 : Lists in Prolog](https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_3/Semester_I/PLF%20-%20Logical%20and%20Functional%20Programming/Tema3_3_5_12.pl)
 
 ### 3) Lisp
 
