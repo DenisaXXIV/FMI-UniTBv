@@ -1,0 +1,17 @@
+.tab *.tab-label {
+    -fx-rotate: 90;
+    -fx-font-size: 30;
+    -fx-pref-height: 350;
+    -fx-pref-width: 150;
+}
+
+.tab-pane .tab-header-area .tab {
+    -fx-pref-height: 350;
+    -fx-pref-width: 150;
+    -fx-alignment: up;
+    -fx-font-size: 30;
+    -fx-tab-min-width:150;
+    -fx-tab-max-width:150;
+    -fx-tab-min-height:350;
+    -fx-tab-max-height:350;
+}

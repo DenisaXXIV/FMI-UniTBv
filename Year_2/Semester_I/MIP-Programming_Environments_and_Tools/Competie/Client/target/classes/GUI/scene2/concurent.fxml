@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.AreaChart?>
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Concurent">
+   <children>
+      <Pane layoutX="600.0" layoutY="278.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox prefHeight="1080.0" prefWidth="1920.0">
+               <children>
+                  <HBox prefHeight="1080.0" prefWidth="1920.0">
+                     <children>
+                        <VBox prefHeight="1080.0" prefWidth="348.0">
+                           <children>
+                              <Label fx:id="concurentUsername" alignment="CENTER" contentDisplay="CENTER" prefHeight="93.0" prefWidth="250.0" text="Username">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Label>
+                              <Button defaultButton="true" mnemonicParsing="false" onAction="#myAccountBT" onMouseClicked="#MyAccount" prefHeight="90.0" prefWidth="236.0" text="My Account ">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Button>
+                              <Button fx:id="dashboardBT" mnemonicParsing="false" onMouseClicked="#openDashboard" prefHeight="90.0" prefWidth="236.0" text="Dashboard">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Button>
+                              <Button fx:id="exitBt" mnemonicParsing="false" onMouseClicked="#exit" prefHeight="90.0" prefWidth="236.0" text="Exit">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Button>
+                           </children>
+                        </VBox>
+                        <VBox prefHeight="1080.0" prefWidth="1796.0">
+                           <children>
+                              <StackPane>
+                                 <children>
+                                    <TitledPane fx:id="accountPane" animated="false" prefHeight="1124.0" prefWidth="1684.0" text="My Account">
+                                      <content>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                             <children>
+                                                <VBox prefHeight="992.0" prefWidth="1684.0">
+                                                   <children>
+                                                      <GridPane prefHeight="980.0" prefWidth="1684.0">
+                                                        <columnConstraints>
+                                                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="407.0" minWidth="0.0" prefWidth="127.0" />
+                                                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="842.0" minWidth="10.0" prefWidth="136.0" />
+                                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="1340.0" minWidth="10.0" prefWidth="995.0" />
+                                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="424.0" minWidth="10.0" prefWidth="424.0" />
+                                                        </columnConstraints>
+                                                        <rowConstraints>
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        </rowConstraints>
+                                                         <children>
+                                                            <Label prefHeight="107.0" prefWidth="424.0" text="Username" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                                                               <font>
+                                                                  <Font size="24.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label prefHeight="77.0" prefWidth="291.0" text="Password" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                                                               <font>
+                                                                  <Font size="24.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label text="Name" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                                                               <font>
+                                                                  <Font size="24.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <Label text="Team" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                                                               <font>
+                                                                  <Font size="24.0" />
+                                                               </font>
+                                                            </Label>
+                                                            <TextField fx:id="usernameField" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                                                            <TextField fx:id="passwordField" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                                                            <TextField fx:id="nameField" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                                                            <TextField fx:id="teamField" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                                                            <Button fx:id="submitBT" mnemonicParsing="false" onMouseClicked="#updateUser" prefHeight="73.0" prefWidth="186.0" text="Submit" GridPane.columnIndex="2" GridPane.halignment="RIGHT" GridPane.rowIndex="5" GridPane.valignment="TOP">
+                                                               <font>
+                                                                  <Font size="24.0" />
+                                                               </font>
+                                                            </Button>
+                                                         </children>
+                                                      </GridPane>
+                                                   </children>
+                                                </VBox>
+                                             </children>
+                                          </AnchorPane>
+                                      </content>
+                                       <font>
+                                          <Font size="43.0" />
+                                       </font>
+                                    </TitledPane>
+                                    <TitledPane fx:id="dashboardPane" animated="false" prefHeight="1126.0" prefWidth="1684.0" text="Dashboard">
+                                      <content>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                             <children>
+                                                <GridPane prefHeight="992.0" prefWidth="1680.0">
+                                                  <columnConstraints>
+                                                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                                  </columnConstraints>
+                                                  <rowConstraints>
+                                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                  </rowConstraints>
+                                                   <children>
+                                                      <AreaChart fx:id="perCompetitor" title="Competitor Statistics">
+                                                        <xAxis>
+                                                          <CategoryAxis fx:id="caStages" label="Stages" side="BOTTOM" />
+                                                        </xAxis>
+                                                        <yAxis>
+                                                          <NumberAxis fx:id="naPoints" label="Points" side="LEFT" />
+                                                        </yAxis>
+                                                         <GridPane.margin>
+                                                            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                                         </GridPane.margin>
+                                                      </AreaChart>
+                                                      <BarChart fx:id="perContest" title="In-Team Statistics" GridPane.columnIndex="1">
+                                                        <xAxis>
+                                                          <CategoryAxis side="BOTTOM" />
+                                                        </xAxis>
+                                                        <yAxis>
+                                                          <NumberAxis side="LEFT" />
+                                                        </yAxis>
+                                                         <GridPane.margin>
+                                                            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                                         </GridPane.margin>
+                                                      </BarChart>
+                                                      <BarChart fx:id="perStage" prefHeight="476.0" prefWidth="828.0" title="Teams Statistics" GridPane.columnSpan="2" GridPane.rowIndex="1">
+                                                        <xAxis>
+                                                          <CategoryAxis side="BOTTOM" />
+                                                        </xAxis>
+                                                        <yAxis>
+                                                          <NumberAxis side="LEFT" />
+                                                        </yAxis>
+                                                         <GridPane.margin>
+                                                            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                                         </GridPane.margin>
+                                                      </BarChart>
+                                                   </children>
+                                                </GridPane>
+                                             </children>
+                                          </AnchorPane>
+                                      </content>
+                                       <font>
+                                          <Font size="43.0" />
+                                       </font>
+                                    </TitledPane>
+                                 </children>
+                              </StackPane>
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
