@@ -40,13 +40,12 @@ Each competitor, but also the administrator, can see the ranking according to th
 - ranking display (individual and team)
 
 #### Database Scheme
-
-<img title="" src="file:///D:/Proiecte/FMI-UniTBv/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/db.png" alt="" width="491" data-align="left">
+<img src="https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/db.png" height="500px">
 
 ##### Use Cases
-
-| <img title="" src="file:///D:/Proiecte/FMI-UniTBv/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/admin_actor.png" alt="" width="51" data-align="left"> | - logs in <br/>- registers and manages competitors <br/>- registers and manages teams <br/>- plans the stages <br/>- sends notifications <br/>- views the ranking |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img title="" src="file:///D:/Proiecte/FMI-UniTBv/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/competitor_actor.png" alt="" width="68">              | **- logs in<br/>- records his score<br/>- receives notification from admin<br/>- can view the ranking (both the competitor and the team)**                        |
+| Actor | Actions |
+|--|--|
+| <img src="https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/admin_actor.png" height="100px"> | - logs in <br/>- registers and manages competitors <br/>- registers and manages teams <br/>- plans the stages <br/>- sends notifications <br/>- views the ranking |
+| <img src="https://github.com/DenisaXXIV/FMI-UniTBv/blob/master/Year_2/Semester_I/MIP-Programming_Environments_and_Tools/Competie/Images/competitor_actor.png" height="100px"> | - logs in<br/>- records his score<br/>- receives notification from admin<br/>- can view the ranking (both the competitor and the team)   |
 
 <sub>I hope that this repository helped you, for more details about me, you can access my website: [here](https://denisa-vasile.info/).</sub>
