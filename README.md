@@ -106,6 +106,9 @@ Copyright - [DenisaXXIV](https://github.com/DenisaXXIV)
 | 22       | SignalR - The Complete Guide                                 | SignalR                                                    | [here](https://www.udemy.com/course/signalr-the-complete-guide/)                                                      | 2024               |
 | 23       | YAML Zero to Master                                          | YAML                                                       | [here](https://www.udemy.com/course/yaml-zero-to-master)                                                              | 2024               |
 | 24       | Testing Spring Boot App with JUnit, Mockito & Testcontainers | Java, JUnit, Spring, Mockito, Docker                       | [here](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito)                           | 2024               |
+| 25       |  Clean Code                                                  | Java, JUnit, Spring, Mockito, Docker                       | [here](https://www.udemy.com/course/writing-clean-code/)                           | 2024               |
+| 26       | GraphQL API with Java Spring Boot & Spring Framework         | Java, Spring, Spring Boot, GraphQL API                     | [here](https://www.udemy.com/course/graphql-with-java-spring-boot-query-mutation-schema-resolver-edge-jpa)            | 2025               |
+| 27       | Fundamentals of Network Engineering         | IP, UDP and TCP Protocols                     | [here](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design)            | 2025               |
 
 <!--- 
 
